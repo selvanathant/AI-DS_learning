@@ -1,0 +1,2465 @@
+id,Credit_rating,Age,Income,Credit_cards,Education,Car_loans
+1,Bad,36.21981863,Medium,5 or more,College,More than 2
+2,Bad,21.98953255,Medium,5 or more,College,More than 2
+3,Bad,29.16967048,Low,5 or more,High school,More than 2
+4,Bad,32.75256866,Low,5 or more,College,None or 1
+5,Bad,36.77058188,Medium,5 or more,College,More than 2
+6,Bad,39.32488456,Medium,5 or more,College,More than 2
+7,Bad,31.69943835,Medium,5 or more,College,More than 2
+8,Bad,34.71790504,Low,5 or more,High school,More than 2
+9,Bad,31.53146114,Low,5 or more,High school,More than 2
+10,Bad,24.77996989,Medium,5 or more,College,More than 2
+11,Bad,22.76268041,Low,5 or more,College,More than 2
+12,Bad,45.96576577,Low,5 or more,High school,More than 2
+13,Bad,29.3860485,Medium,5 or more,High school,More than 2
+14,Bad,29.21466006,Low,5 or more,College,None or 1
+15,Bad,39.60336809,Low,5 or more,High school,More than 2
+16,Bad,39.4559523,Low,5 or more,College,More than 2
+17,Bad,34.12724966,Low,5 or more,College,More than 2
+18,Bad,35.81792587,Medium,5 or more,College,More than 2
+19,Bad,35.96556904,Medium,5 or more,College,More than 2
+20,Bad,26.26307849,High,5 or more,College,More than 2
+21,Bad,21.51867486,Low,5 or more,College,More than 2
+22,Bad,29.23231508,Medium,5 or more,High school,More than 2
+23,Bad,22.94439221,Low,5 or more,College,More than 2
+24,Bad,43.41514531,Medium,5 or more,College,More than 2
+25,Bad,20.16066002,Medium,5 or more,High school,More than 2
+26,Bad,27.98448868,Medium,5 or more,High school,More than 2
+27,Bad,29.49018927,Medium,5 or more,College,More than 2
+28,Bad,30.11577658,Medium,5 or more,High school,More than 2
+29,Bad,25.43095088,Medium,5 or more,College,More than 2
+30,Bad,40.18545678,Low,5 or more,College,None or 1
+31,Bad,20.52114396,Low,5 or more,College,More than 2
+32,Bad,22.75843803,Low,5 or more,High school,More than 2
+33,Bad,32.89567502,Medium,5 or more,High school,More than 2
+34,Bad,33.21182256,Medium,5 or more,High school,More than 2
+35,Bad,27.98090885,High,5 or more,High school,None or 1
+36,Bad,20.99263103,Medium,5 or more,College,More than 2
+37,Bad,28.60925466,Medium,5 or more,College,More than 2
+38,Bad,20.78914143,Medium,5 or more,High school,More than 2
+39,Bad,20.70598625,Medium,5 or more,High school,None or 1
+40,Bad,24.48340078,Low,5 or more,High school,More than 2
+41,Bad,47.15657055,Medium,5 or more,College,More than 2
+42,Bad,24.67667422,Medium,5 or more,High school,More than 2
+43,Bad,30.81285257,High,5 or more,High school,More than 2
+44,Bad,20.88827104,Low,5 or more,High school,More than 2
+45,Bad,21.05018719,Medium,5 or more,College,More than 2
+46,Bad,32.4320734,Medium,5 or more,High school,More than 2
+47,Bad,31.35094299,Medium,5 or more,High school,More than 2
+48,Bad,22.9262008,Medium,5 or more,College,More than 2
+49,Bad,35.14640456,Medium,5 or more,High school,More than 2
+50,Bad,24.68598771,Medium,Less than 5,College,None or 1
+51,Bad,37.32591182,Low,5 or more,High school,More than 2
+52,Bad,30.7003826,Medium,5 or more,High school,More than 2
+53,Bad,32.91887845,Low,5 or more,High school,More than 2
+54,Bad,23.85429322,Low,5 or more,College,More than 2
+55,Bad,46.76654406,Low,5 or more,High school,More than 2
+56,Bad,27.91039236,Medium,5 or more,High school,More than 2
+57,Bad,46.44138458,Medium,5 or more,College,None or 1
+58,Bad,20.65989768,Low,5 or more,High school,More than 2
+59,Bad,20.96444547,Low,5 or more,College,None or 1
+60,Bad,24.45418328,Medium,5 or more,High school,More than 2
+61,Bad,27.06244228,Low,5 or more,High school,More than 2
+62,Bad,38.05884088,Low,5 or more,College,More than 2
+63,Bad,22.99244746,Medium,5 or more,College,More than 2
+64,Bad,22.37036157,Low,5 or more,College,More than 2
+65,Bad,26.20544628,Low,5 or more,High school,More than 2
+66,Bad,36.4479348,Medium,5 or more,High school,More than 2
+67,Bad,22.7212962,Medium,5 or more,College,More than 2
+68,Bad,33.28090462,Low,5 or more,College,More than 2
+69,Bad,28.1458427,Medium,5 or more,High school,More than 2
+70,Bad,44.13116725,Medium,5 or more,High school,None or 1
+71,Bad,24.88833221,Low,5 or more,College,More than 2
+72,Bad,21.87183547,Medium,5 or more,High school,More than 2
+73,Bad,28.22968577,Low,5 or more,High school,None or 1
+74,Bad,36.98107474,Medium,5 or more,College,More than 2
+75,Bad,24.15702096,Low,5 or more,College,More than 2
+76,Bad,35.66828913,Medium,5 or more,College,More than 2
+77,Bad,24.97366083,Low,5 or more,College,More than 2
+78,Bad,30.56916856,Medium,5 or more,High school,More than 2
+79,Bad,20.37501914,Low,5 or more,College,More than 2
+80,Bad,32.66888642,Medium,5 or more,College,More than 2
+81,Bad,20.57287824,Low,5 or more,High school,More than 2
+82,Bad,26.6588422,Low,Less than 5,High school,None or 1
+83,Bad,30.804043,Low,5 or more,College,More than 2
+84,Bad,29.84260856,Medium,5 or more,College,More than 2
+85,Bad,50.82593062,Low,5 or more,High school,More than 2
+86,Bad,29.25532861,Low,5 or more,College,More than 2
+87,Bad,35.21777505,Medium,5 or more,College,More than 2
+88,Bad,35.81793817,Low,5 or more,College,None or 1
+89,Bad,24.43799567,Medium,5 or more,High school,More than 2
+90,Bad,23.39659781,Medium,5 or more,High school,More than 2
+91,Bad,38.67663771,Medium,5 or more,High school,More than 2
+92,Bad,21.86081439,Medium,5 or more,College,More than 2
+93,Bad,24.04264629,Low,5 or more,High school,More than 2
+94,Bad,25.7179112,Medium,5 or more,College,More than 2
+95,Bad,26.80749717,Medium,5 or more,College,More than 2
+96,Bad,36.62029546,Medium,5 or more,High school,More than 2
+97,Bad,29.05041825,Low,5 or more,College,More than 2
+98,Bad,30.77225471,Low,5 or more,High school,More than 2
+99,Bad,22.17411564,Low,5 or more,High school,More than 2
+100,Bad,42.92791166,Low,5 or more,College,More than 2
+101,Bad,26.79121417,Medium,Less than 5,High school,None or 1
+102,Bad,24.23984464,Low,5 or more,College,More than 2
+103,Bad,25.81516671,Low,5 or more,College,More than 2
+104,Bad,20.74492836,Medium,5 or more,High school,More than 2
+105,Bad,40.87495289,Medium,5 or more,High school,More than 2
+106,Bad,52.95441659,Low,5 or more,College,More than 2
+107,Bad,25.34813221,Medium,5 or more,College,More than 2
+108,Bad,28.12160942,Low,5 or more,College,More than 2
+109,Bad,29.50545391,Low,5 or more,High school,More than 2
+110,Bad,35.89603962,Low,5 or more,College,More than 2
+111,Bad,20.14008122,Medium,5 or more,High school,More than 2
+112,Bad,23.22676407,Low,5 or more,College,More than 2
+113,Bad,44.82106946,Low,5 or more,High school,More than 2
+114,Bad,43.57331385,Medium,5 or more,College,More than 2
+115,Bad,20.15777262,Medium,Less than 5,College,None or 1
+116,Bad,27.44002472,Low,5 or more,College,More than 2
+117,Bad,24.03417533,Low,5 or more,High school,More than 2
+118,Bad,37.07877082,Medium,5 or more,High school,More than 2
+119,Bad,25.7861536,High,5 or more,College,None or 1
+120,Bad,24.7985767,Low,5 or more,College,More than 2
+121,Bad,31.74538354,Low,5 or more,High school,More than 2
+122,Bad,38.719923,Medium,5 or more,College,None or 1
+123,Bad,24.12005788,Medium,5 or more,College,More than 2
+124,Bad,31.79602344,Low,5 or more,High school,More than 2
+125,Bad,43.03200602,Low,5 or more,College,More than 2
+126,Bad,22.09949587,Medium,5 or more,College,More than 2
+127,Bad,26.7976632,High,5 or more,College,More than 2
+128,Bad,39.97980906,High,5 or more,College,More than 2
+129,Bad,31.47530311,Medium,Less than 5,High school,None or 1
+130,Bad,23.64060229,Low,5 or more,High school,More than 2
+131,Bad,33.18144026,Low,5 or more,High school,More than 2
+132,Bad,40.00019028,Low,5 or more,High school,More than 2
+133,Bad,23.44607673,High,5 or more,High school,More than 2
+134,Bad,29.84445838,Low,Less than 5,High school,None or 1
+135,Bad,29.32356857,Low,Less than 5,High school,None or 1
+136,Bad,22.50946897,Low,5 or more,High school,More than 2
+137,Bad,31.4276444,Low,Less than 5,High school,None or 1
+138,Bad,32.96204938,Low,5 or more,High school,None or 1
+139,Bad,37.2314938,Medium,5 or more,College,More than 2
+140,Bad,39.48911564,Low,5 or more,College,More than 2
+141,Bad,21.98529177,Low,5 or more,High school,More than 2
+142,Bad,31.01034972,Low,5 or more,High school,More than 2
+143,Bad,40.39863934,Low,5 or more,High school,More than 2
+144,Bad,28.52887586,Low,5 or more,High school,More than 2
+145,Bad,21.92540704,Medium,5 or more,College,More than 2
+146,Bad,25.52239754,Low,5 or more,High school,More than 2
+147,Bad,20.72219001,Low,5 or more,College,More than 2
+148,Bad,43.56943896,Low,5 or more,High school,None or 1
+149,Bad,33.0903024,Low,5 or more,High school,More than 2
+150,Bad,27.85292373,Medium,5 or more,High school,More than 2
+151,Bad,28.74028759,Low,5 or more,College,More than 2
+152,Bad,44.61458144,Low,5 or more,College,None or 1
+153,Bad,22.31643909,High,5 or more,College,More than 2
+154,Bad,32.72566676,Medium,5 or more,College,More than 2
+155,Bad,32.19680981,Low,5 or more,College,More than 2
+156,Bad,22.21803618,Medium,Less than 5,College,None or 1
+157,Bad,30.25985065,Medium,5 or more,High school,More than 2
+158,Bad,54.67529333,Medium,5 or more,High school,More than 2
+159,Bad,29.51360081,Medium,Less than 5,High school,None or 1
+160,Bad,20.14202077,Low,5 or more,College,More than 2
+161,Bad,29.24831062,Low,5 or more,College,More than 2
+162,Bad,38.14189963,Low,5 or more,High school,More than 2
+163,Bad,28.76395677,Low,5 or more,College,More than 2
+164,Bad,36.45028664,Low,5 or more,High school,None or 1
+165,Bad,20.636091,Medium,5 or more,High school,None or 1
+166,Bad,24.54417228,Medium,5 or more,High school,More than 2
+167,Bad,31.3859794,Low,5 or more,College,More than 2
+168,Bad,39.79780436,Low,5 or more,College,More than 2
+169,Bad,28.56359203,Medium,5 or more,College,More than 2
+170,Bad,22.6118286,Low,5 or more,College,More than 2
+171,Bad,33.17446078,Low,5 or more,College,More than 2
+172,Bad,43.37124615,Low,5 or more,College,None or 1
+173,Bad,34.35961691,Medium,5 or more,High school,None or 1
+174,Bad,40.67442514,Medium,Less than 5,College,None or 1
+175,Bad,33.74187339,High,5 or more,High school,None or 1
+176,Bad,25.2338965,Medium,5 or more,High school,More than 2
+177,Bad,26.09004691,Low,5 or more,College,More than 2
+178,Bad,31.62818526,Low,5 or more,College,More than 2
+179,Bad,41.67018873,Medium,5 or more,College,More than 2
+180,Bad,23.07513724,Medium,5 or more,High school,None or 1
+181,Bad,24.86028285,Low,5 or more,College,More than 2
+182,Bad,23.62845142,Medium,5 or more,High school,More than 2
+183,Bad,25.9634582,Medium,5 or more,High school,More than 2
+184,Bad,44.00477956,Medium,Less than 5,College,None or 1
+185,Bad,21.95698015,Low,5 or more,High school,More than 2
+186,Bad,37.58288144,Medium,5 or more,College,More than 2
+187,Bad,53.86335925,Low,5 or more,College,More than 2
+188,Bad,29.79710792,Medium,5 or more,High school,More than 2
+189,Bad,26.7235055,Medium,5 or more,College,More than 2
+190,Bad,24.20247602,Medium,5 or more,High school,More than 2
+191,Bad,34.35956176,Low,Less than 5,High school,None or 1
+192,Bad,24.86455961,Medium,5 or more,High school,More than 2
+193,Bad,33.74344024,Medium,5 or more,College,More than 2
+194,Bad,36.22172744,Medium,Less than 5,High school,None or 1
+195,Bad,24.2224082,Low,5 or more,College,More than 2
+196,Bad,43.81414016,Low,5 or more,College,More than 2
+197,Bad,22.57652262,High,5 or more,College,More than 2
+198,Bad,47.89345858,High,5 or more,College,More than 2
+199,Bad,37.56302598,Low,5 or more,High school,None or 1
+200,Bad,24.41433956,Medium,5 or more,College,More than 2
+201,Bad,28.23431531,Medium,5 or more,High school,More than 2
+202,Bad,20.5885592,Medium,5 or more,High school,None or 1
+203,Bad,27.88346126,Medium,5 or more,High school,More than 2
+204,Bad,23.60358526,Low,5 or more,High school,More than 2
+205,Bad,20.84095369,Medium,Less than 5,College,More than 2
+206,Bad,34.51064534,Low,5 or more,College,More than 2
+207,Bad,32.74735225,Low,5 or more,College,More than 2
+208,Bad,30.15091812,Low,5 or more,College,More than 2
+209,Bad,22.42795217,Medium,5 or more,High school,More than 2
+210,Bad,23.45416857,Low,5 or more,High school,More than 2
+211,Bad,31.80199453,Medium,5 or more,High school,None or 1
+212,Bad,22.96433156,Low,5 or more,College,More than 2
+213,Bad,37.3181942,Low,5 or more,College,More than 2
+214,Bad,29.3530572,Medium,5 or more,College,More than 2
+215,Bad,51.90912143,Medium,5 or more,High school,None or 1
+216,Bad,26.82452455,Medium,5 or more,College,More than 2
+217,Bad,40.7576406,Low,5 or more,College,More than 2
+218,Bad,40.51497323,Medium,5 or more,High school,More than 2
+219,Bad,25.14977029,Medium,5 or more,High school,More than 2
+220,Bad,30.29056829,Medium,5 or more,High school,More than 2
+221,Bad,20.57246134,Low,5 or more,College,More than 2
+222,Bad,29.59912041,Medium,5 or more,College,None or 1
+223,Bad,21.39212367,Low,5 or more,High school,More than 2
+224,Bad,26.52351111,Medium,Less than 5,High school,None or 1
+225,Bad,23.63800953,Low,5 or more,High school,More than 2
+226,Bad,24.87425838,Medium,5 or more,College,More than 2
+227,Bad,26.41930292,Low,5 or more,High school,More than 2
+228,Bad,31.89471672,Medium,5 or more,College,More than 2
+229,Bad,32.9169179,Low,5 or more,College,More than 2
+230,Bad,37.42485369,Medium,5 or more,High school,More than 2
+231,Bad,28.13553254,Low,5 or more,High school,More than 2
+232,Bad,24.71452228,Medium,5 or more,High school,More than 2
+233,Bad,35.11712752,Medium,5 or more,High school,More than 2
+234,Bad,32.56318735,Medium,5 or more,College,More than 2
+235,Bad,35.03257298,Medium,5 or more,High school,More than 2
+236,Bad,43.2737021,Medium,5 or more,College,More than 2
+237,Bad,23.53426725,Low,5 or more,College,More than 2
+238,Bad,25.01097136,Medium,5 or more,High school,More than 2
+239,Bad,26.60692251,Low,5 or more,College,More than 2
+240,Bad,41.41073344,Medium,5 or more,High school,More than 2
+241,Bad,20.34804309,Low,Less than 5,College,None or 1
+242,Bad,35.24091927,Low,5 or more,High school,More than 2
+243,Bad,44.29923592,Low,5 or more,College,More than 2
+244,Bad,38.61248616,Medium,5 or more,High school,More than 2
+245,Bad,33.5311094,Medium,5 or more,High school,More than 2
+246,Bad,22.5303269,Medium,5 or more,High school,More than 2
+247,Bad,46.5129397,Low,5 or more,College,More than 2
+248,Bad,28.04914721,High,5 or more,College,More than 2
+249,Bad,40.29265041,Medium,5 or more,High school,More than 2
+250,Bad,20.72590576,Medium,Less than 5,College,None or 1
+251,Bad,26.52973668,Low,5 or more,College,More than 2
+252,Bad,38.76273104,Medium,Less than 5,High school,None or 1
+253,Bad,35.56411402,High,5 or more,College,More than 2
+254,Bad,28.24787905,Medium,5 or more,College,More than 2
+255,Bad,37.12080741,Medium,Less than 5,High school,None or 1
+256,Bad,22.7833584,Medium,Less than 5,College,None or 1
+257,Bad,37.07132556,Medium,Less than 5,College,None or 1
+258,Bad,35.00258764,High,5 or more,High school,More than 2
+259,Bad,39.01553366,Medium,5 or more,College,More than 2
+260,Bad,29.2097752,Medium,5 or more,College,More than 2
+261,Bad,21.60598507,Medium,5 or more,College,More than 2
+262,Bad,25.40618304,Low,5 or more,College,More than 2
+263,Bad,36.40914952,Medium,5 or more,High school,More than 2
+264,Bad,34.30647454,Low,5 or more,College,More than 2
+265,Bad,20.18279174,Medium,5 or more,High school,More than 2
+266,Bad,24.96554151,Low,Less than 5,High school,None or 1
+267,Bad,22.99077528,Medium,Less than 5,High school,None or 1
+268,Bad,22.93122946,Low,5 or more,High school,More than 2
+269,Bad,31.76672851,Low,5 or more,High school,More than 2
+270,Bad,40.78290402,Medium,5 or more,High school,More than 2
+271,Bad,25.71224232,Medium,5 or more,College,More than 2
+272,Bad,20.23265105,Low,5 or more,College,More than 2
+273,Bad,20.82113353,Low,5 or more,High school,More than 2
+274,Bad,22.24074437,Medium,5 or more,High school,More than 2
+275,Bad,23.31709988,Medium,5 or more,College,More than 2
+276,Bad,26.16700429,Medium,5 or more,College,More than 2
+277,Bad,26.22284901,Medium,Less than 5,College,None or 1
+278,Bad,28.90549182,Medium,5 or more,High school,More than 2
+279,Bad,30.3187915,Medium,5 or more,College,More than 2
+280,Bad,22.08393007,Medium,5 or more,High school,More than 2
+281,Bad,22.06804419,Medium,5 or more,College,More than 2
+282,Bad,26.66645673,High,5 or more,High school,More than 2
+283,Bad,28.72595338,Low,5 or more,High school,More than 2
+284,Bad,31.08813722,High,5 or more,College,More than 2
+285,Bad,23.38457216,Low,5 or more,College,None or 1
+286,Bad,25.84124945,Low,5 or more,College,None or 1
+287,Bad,29.39736642,Medium,5 or more,College,More than 2
+288,Bad,37.35688176,Medium,Less than 5,High school,None or 1
+289,Bad,27.57438852,Medium,5 or more,High school,More than 2
+290,Bad,39.15187525,Low,5 or more,College,More than 2
+291,Bad,22.79471846,High,5 or more,High school,More than 2
+292,Bad,33.40706559,Low,5 or more,College,More than 2
+293,Bad,28.02730026,Low,5 or more,College,None or 1
+294,Bad,24.96806683,Medium,5 or more,High school,More than 2
+295,Bad,20.04494954,Medium,5 or more,High school,More than 2
+296,Bad,41.31987855,Low,5 or more,High school,More than 2
+297,Bad,31.90348048,Low,Less than 5,College,More than 2
+298,Bad,35.84965398,Medium,5 or more,High school,More than 2
+299,Bad,20.61046327,Medium,5 or more,High school,More than 2
+300,Bad,22.48602604,Low,5 or more,High school,More than 2
+301,Bad,33.07973879,Low,5 or more,High school,More than 2
+302,Bad,33.50912294,Low,5 or more,High school,More than 2
+303,Bad,24.56465379,Medium,5 or more,High school,None or 1
+304,Bad,22.38095956,Medium,5 or more,College,More than 2
+305,Bad,27.78487104,High,5 or more,High school,More than 2
+306,Bad,26.61538437,Medium,5 or more,High school,More than 2
+307,Bad,28.74882421,Low,5 or more,College,None or 1
+308,Bad,20.42147883,Low,Less than 5,High school,None or 1
+309,Bad,22.73432918,Medium,5 or more,College,More than 2
+310,Bad,21.7309651,Low,5 or more,College,None or 1
+311,Bad,25.63201938,Medium,5 or more,High school,More than 2
+312,Bad,34.5564523,Medium,5 or more,College,More than 2
+313,Bad,40.94343414,Medium,5 or more,High school,None or 1
+314,Bad,35.10379963,Low,5 or more,High school,More than 2
+315,Bad,27.00044078,Low,5 or more,College,More than 2
+316,Bad,20.59557993,Medium,5 or more,High school,More than 2
+317,Bad,44.55682181,Medium,5 or more,College,More than 2
+318,Bad,33.80574687,Low,5 or more,High school,More than 2
+319,Bad,30.94958802,Medium,5 or more,High school,More than 2
+320,Bad,30.9041982,Low,5 or more,College,More than 2
+321,Bad,35.0618973,Low,Less than 5,High school,None or 1
+322,Bad,36.36430124,Medium,5 or more,High school,More than 2
+323,Bad,27.88379807,Medium,5 or more,High school,More than 2
+324,Bad,32.4451707,Medium,5 or more,College,More than 2
+325,Bad,30.56926739,Low,5 or more,College,More than 2
+326,Bad,31.63745711,Medium,5 or more,High school,More than 2
+327,Bad,22.50088762,Low,5 or more,High school,More than 2
+328,Bad,31.8168566,Low,5 or more,High school,More than 2
+329,Bad,33.83493589,Low,5 or more,College,None or 1
+330,Bad,22.13281198,Medium,5 or more,College,More than 2
+331,Bad,26.8816101,Medium,5 or more,College,More than 2
+332,Bad,36.35153862,Low,5 or more,High school,More than 2
+333,Bad,27.8991855,Medium,Less than 5,High school,More than 2
+334,Bad,26.68894407,Medium,5 or more,College,More than 2
+335,Bad,34.11393884,Medium,5 or more,High school,More than 2
+336,Bad,29.24320547,Low,5 or more,College,More than 2
+337,Bad,33.94258041,Low,5 or more,College,More than 2
+338,Bad,31.93486205,Low,5 or more,College,More than 2
+339,Bad,25.36377093,Medium,5 or more,High school,More than 2
+340,Bad,29.33459536,Low,5 or more,High school,More than 2
+341,Bad,35.54201042,Medium,Less than 5,High school,More than 2
+342,Bad,27.36480328,Medium,Less than 5,College,None or 1
+343,Bad,34.43121265,Low,5 or more,College,More than 2
+344,Bad,26.50768364,Medium,5 or more,College,More than 2
+345,Bad,26.5260567,Medium,5 or more,College,More than 2
+346,Bad,22.43895098,High,5 or more,College,None or 1
+347,Bad,29.60880259,Medium,Less than 5,College,None or 1
+348,Bad,21.97370836,Medium,5 or more,College,More than 2
+349,Bad,22.83887272,Medium,5 or more,High school,More than 2
+350,Bad,39.00897747,Medium,5 or more,College,More than 2
+351,Bad,31.81572854,Medium,5 or more,High school,More than 2
+352,Bad,30.64509154,Low,5 or more,High school,More than 2
+353,Bad,34.37576112,Medium,5 or more,College,More than 2
+354,Bad,29.66501658,Low,5 or more,High school,More than 2
+355,Bad,25.65765042,Medium,5 or more,High school,More than 2
+356,Bad,21.37852796,Low,5 or more,College,None or 1
+357,Bad,45.73619977,Low,Less than 5,College,None or 1
+358,Bad,37.54586924,Low,5 or more,High school,More than 2
+359,Bad,31.04662668,Low,5 or more,High school,More than 2
+360,Bad,30.1645217,Medium,5 or more,High school,More than 2
+361,Bad,56.67512076,Low,5 or more,High school,More than 2
+362,Bad,40.49608183,Medium,5 or more,High school,More than 2
+363,Bad,51.62779049,Medium,Less than 5,College,None or 1
+364,Bad,25.43763409,Low,5 or more,College,More than 2
+365,Bad,32.92978544,Low,5 or more,College,More than 2
+366,Bad,37.31334151,High,5 or more,College,More than 2
+367,Bad,24.05325294,Low,5 or more,High school,More than 2
+368,Bad,23.62617339,Medium,5 or more,High school,More than 2
+369,Bad,27.18292251,Medium,5 or more,High school,More than 2
+370,Bad,32.0370614,High,Less than 5,College,None or 1
+371,Bad,22.90101797,Low,5 or more,High school,More than 2
+372,Bad,25.01689854,Medium,5 or more,College,More than 2
+373,Bad,31.92188924,Medium,5 or more,College,More than 2
+374,Bad,33.07447013,Medium,5 or more,College,More than 2
+375,Bad,33.09386619,Medium,Less than 5,College,None or 1
+376,Bad,31.34896853,Low,5 or more,High school,None or 1
+377,Bad,26.06956333,High,5 or more,High school,None or 1
+378,Bad,29.92122315,Low,5 or more,High school,More than 2
+379,Bad,30.14703825,Low,5 or more,College,More than 2
+380,Bad,40.39305685,Medium,5 or more,College,More than 2
+381,Bad,23.07229809,Medium,5 or more,High school,More than 2
+382,Bad,26.24340994,Medium,Less than 5,College,None or 1
+383,Bad,34.06062083,Medium,5 or more,High school,More than 2
+384,Bad,28.37738459,Medium,5 or more,College,More than 2
+385,Bad,24.02302922,Medium,5 or more,College,More than 2
+386,Bad,29.87219893,Medium,Less than 5,High school,None or 1
+387,Bad,37.78638881,Low,5 or more,College,More than 2
+388,Bad,44.46847169,Medium,5 or more,High school,More than 2
+389,Bad,25.37807487,Medium,5 or more,College,More than 2
+390,Bad,32.60942202,Medium,5 or more,High school,More than 2
+391,Bad,22.64579482,Medium,5 or more,High school,More than 2
+392,Bad,21.91663911,Medium,5 or more,High school,More than 2
+393,Bad,25.3409224,Medium,Less than 5,High school,None or 1
+394,Bad,37.67813989,Medium,5 or more,College,More than 2
+395,Bad,27.43025082,Low,5 or more,High school,More than 2
+396,Bad,41.71445275,Low,5 or more,High school,More than 2
+397,Bad,34.81502756,Low,5 or more,College,More than 2
+398,Bad,32.42881905,Low,5 or more,High school,More than 2
+399,Bad,33.91253564,Low,5 or more,High school,More than 2
+400,Bad,23.24450664,Low,5 or more,High school,More than 2
+401,Bad,32.91131744,Medium,5 or more,High school,More than 2
+402,Bad,29.08302669,Medium,5 or more,College,More than 2
+403,Bad,40.20516569,Medium,5 or more,High school,More than 2
+404,Bad,25.31898196,Low,5 or more,High school,More than 2
+405,Bad,44.68553087,Medium,5 or more,College,More than 2
+406,Bad,26.29796887,Low,5 or more,College,More than 2
+407,Bad,28.43801099,Low,5 or more,High school,More than 2
+408,Bad,31.75249437,Medium,Less than 5,College,None or 1
+409,Bad,36.56282342,Medium,Less than 5,College,None or 1
+410,Bad,30.09285974,Low,5 or more,High school,More than 2
+411,Bad,27.64434858,Low,5 or more,High school,More than 2
+412,Bad,23.97681652,Low,5 or more,High school,More than 2
+413,Bad,23.41043855,Low,5 or more,College,More than 2
+414,Bad,23.79345158,Low,5 or more,High school,More than 2
+415,Bad,21.55411383,Low,5 or more,High school,More than 2
+416,Bad,35.29328293,Low,Less than 5,College,None or 1
+417,Bad,22.46477019,High,5 or more,High school,None or 1
+418,Bad,43.66188772,Low,5 or more,High school,More than 2
+419,Bad,20.39508205,Low,Less than 5,College,More than 2
+420,Bad,25.11171412,Medium,5 or more,College,More than 2
+421,Bad,23.03102153,Low,5 or more,High school,More than 2
+422,Bad,25.47395343,Medium,5 or more,College,None or 1
+423,Bad,27.10392192,Medium,5 or more,High school,More than 2
+424,Bad,30.31910101,Low,5 or more,College,More than 2
+425,Bad,36.66206403,Medium,5 or more,College,More than 2
+426,Bad,36.48052251,Low,5 or more,College,More than 2
+427,Bad,31.19577124,Medium,5 or more,High school,More than 2
+428,Bad,31.078256,Medium,5 or more,College,More than 2
+429,Bad,26.40590328,Medium,5 or more,College,More than 2
+430,Bad,31.9969991,Low,5 or more,College,More than 2
+431,Bad,37.4496673,Medium,5 or more,High school,None or 1
+432,Bad,35.82946107,Low,5 or more,College,More than 2
+433,Bad,25.02743507,Medium,Less than 5,College,None or 1
+434,Bad,21.00710958,Low,Less than 5,High school,None or 1
+435,Bad,31.99088489,High,Less than 5,High school,More than 2
+436,Bad,29.62156625,Low,5 or more,High school,More than 2
+437,Bad,43.98155025,Medium,5 or more,High school,More than 2
+438,Bad,21.82780242,Medium,5 or more,High school,More than 2
+439,Bad,31.051457,Low,5 or more,College,None or 1
+440,Bad,27.41808101,Low,5 or more,College,More than 2
+441,Bad,29.99416536,Low,5 or more,College,None or 1
+442,Bad,23.02374548,Medium,Less than 5,College,None or 1
+443,Bad,25.73681548,High,5 or more,High school,None or 1
+444,Bad,28.50019619,Low,5 or more,College,More than 2
+445,Bad,20.54404698,Low,5 or more,College,More than 2
+446,Bad,30.55840822,High,5 or more,High school,More than 2
+447,Bad,38.39233587,Medium,Less than 5,College,None or 1
+448,Bad,24.16115982,Low,5 or more,College,More than 2
+449,Bad,26.94960307,Low,5 or more,College,More than 2
+450,Bad,38.8851038,Low,5 or more,College,More than 2
+451,Bad,30.95693985,Medium,5 or more,High school,More than 2
+452,Bad,22.0145217,Medium,Less than 5,High school,None or 1
+453,Bad,35.00697489,Medium,5 or more,High school,More than 2
+454,Bad,39.28909945,Medium,5 or more,High school,More than 2
+455,Bad,28.39589651,Low,5 or more,High school,More than 2
+456,Bad,33.28939398,Medium,5 or more,High school,More than 2
+457,Bad,41.31304233,Medium,5 or more,High school,More than 2
+458,Bad,41.30882722,Medium,5 or more,High school,More than 2
+459,Bad,40.85795576,Low,5 or more,High school,More than 2
+460,Bad,32.94671256,Low,5 or more,High school,More than 2
+461,Bad,34.87765946,Medium,5 or more,College,More than 2
+462,Bad,23.7905303,Medium,5 or more,High school,More than 2
+463,Bad,43.2912648,High,5 or more,College,More than 2
+464,Bad,22.47346997,Low,Less than 5,High school,None or 1
+465,Bad,27.45821086,Medium,5 or more,High school,More than 2
+466,Bad,27.76615894,Low,5 or more,High school,More than 2
+467,Bad,36.70020029,Low,5 or more,College,More than 2
+468,Bad,28.41814581,Low,5 or more,College,More than 2
+469,Bad,23.62635576,Low,5 or more,College,More than 2
+470,Bad,23.33595471,Medium,5 or more,College,More than 2
+471,Bad,38.06851845,Low,5 or more,High school,More than 2
+472,Bad,27.23504681,Medium,5 or more,High school,More than 2
+473,Bad,36.79547961,Low,5 or more,High school,More than 2
+474,Bad,28.46198424,High,Less than 5,High school,None or 1
+475,Bad,33.27520053,Low,5 or more,High school,More than 2
+476,Bad,25.62279328,High,5 or more,College,More than 2
+477,Bad,26.1097542,Medium,5 or more,High school,None or 1
+478,Bad,27.80802023,Medium,Less than 5,College,None or 1
+479,Bad,30.07330995,High,5 or more,High school,More than 2
+480,Bad,33.94581112,Medium,Less than 5,High school,None or 1
+481,Bad,26.98567612,Low,5 or more,College,More than 2
+482,Bad,39.14714675,Low,5 or more,College,More than 2
+483,Bad,26.92393073,Medium,5 or more,High school,More than 2
+484,Bad,37.65557096,High,5 or more,College,More than 2
+485,Bad,29.85612818,Medium,5 or more,High school,More than 2
+486,Bad,30.32974851,Low,5 or more,College,More than 2
+487,Bad,24.52515001,Medium,Less than 5,College,None or 1
+488,Bad,20.95226489,Low,Less than 5,High school,More than 2
+489,Bad,20.58610777,Medium,5 or more,High school,More than 2
+490,Bad,37.60802426,High,5 or more,High school,More than 2
+491,Bad,36.61450949,Low,5 or more,College,More than 2
+492,Bad,24.19610611,Low,5 or more,High school,More than 2
+493,Bad,22.91900617,Medium,5 or more,College,None or 1
+494,Bad,29.49741001,Low,5 or more,High school,None or 1
+495,Bad,23.65031284,Low,5 or more,High school,More than 2
+496,Bad,38.96557356,Medium,5 or more,College,More than 2
+497,Bad,21.52350981,Medium,Less than 5,High school,None or 1
+498,Bad,34.82618547,Low,5 or more,College,More than 2
+499,Bad,33.71867098,Low,5 or more,High school,More than 2
+500,Bad,31.10894677,Low,5 or more,High school,More than 2
+501,Bad,39.40497883,Medium,5 or more,College,More than 2
+502,Bad,36.940592,Medium,5 or more,College,More than 2
+503,Bad,37.67186233,High,5 or more,College,None or 1
+504,Bad,21.32880702,Low,5 or more,College,None or 1
+505,Bad,20.50354125,Low,5 or more,High school,None or 1
+506,Bad,23.11996748,Medium,5 or more,High school,More than 2
+507,Bad,22.95508278,Low,5 or more,College,More than 2
+508,Bad,37.60448755,Low,5 or more,College,More than 2
+509,Bad,29.02196876,Low,5 or more,College,More than 2
+510,Bad,26.95501858,Low,5 or more,High school,More than 2
+511,Bad,40.33475442,Medium,5 or more,College,More than 2
+512,Bad,23.30340604,Medium,5 or more,High school,More than 2
+513,Bad,27.85218722,Medium,5 or more,High school,More than 2
+514,Bad,29.13830232,Medium,5 or more,College,More than 2
+515,Bad,25.0482719,Medium,Less than 5,College,None or 1
+516,Bad,22.19254388,Low,5 or more,High school,More than 2
+517,Bad,22.71757997,Medium,5 or more,High school,More than 2
+518,Bad,34.11267574,Medium,5 or more,High school,More than 2
+519,Bad,32.61915951,High,Less than 5,College,None or 1
+520,Bad,24.05251401,Medium,5 or more,College,More than 2
+521,Bad,20.85677455,Medium,5 or more,College,More than 2
+522,Bad,28.00716933,Low,5 or more,College,More than 2
+523,Bad,23.8422165,Medium,5 or more,High school,None or 1
+524,Bad,28.81382052,Medium,5 or more,College,More than 2
+525,Bad,47.37028349,Medium,5 or more,High school,More than 2
+526,Bad,24.72062322,Medium,5 or more,High school,More than 2
+527,Bad,33.32659039,High,5 or more,College,More than 2
+528,Bad,32.40197741,Medium,5 or more,College,More than 2
+529,Bad,37.0195623,High,5 or more,High school,More than 2
+530,Bad,35.22181939,Medium,5 or more,College,More than 2
+531,Bad,25.31002842,Low,5 or more,High school,More than 2
+532,Bad,34.18037469,High,5 or more,High school,More than 2
+533,Bad,43.27502631,Low,5 or more,College,More than 2
+534,Bad,26.90861798,Low,5 or more,High school,More than 2
+535,Bad,30.09125404,Medium,Less than 5,High school,None or 1
+536,Bad,48.18529797,High,5 or more,High school,None or 1
+537,Bad,33.85406082,Low,5 or more,High school,More than 2
+538,Bad,32.4238637,Low,5 or more,College,More than 2
+539,Bad,34.2269544,Low,5 or more,College,More than 2
+540,Bad,26.23342376,Medium,5 or more,High school,More than 2
+541,Bad,22.58924691,Low,5 or more,College,None or 1
+542,Bad,21.57457844,Medium,5 or more,High school,More than 2
+543,Bad,29.02768242,Low,5 or more,High school,More than 2
+544,Bad,28.22899864,Medium,5 or more,College,More than 2
+545,Bad,26.41304904,Medium,5 or more,High school,More than 2
+546,Bad,28.13402049,Medium,5 or more,High school,More than 2
+547,Bad,27.29541565,Medium,5 or more,College,More than 2
+548,Bad,32.68468654,Low,5 or more,College,More than 2
+549,Bad,39.17048135,High,5 or more,High school,More than 2
+550,Bad,44.46430306,Low,5 or more,College,More than 2
+551,Bad,28.20596334,Medium,5 or more,College,More than 2
+552,Bad,37.56187297,Medium,5 or more,College,None or 1
+553,Bad,41.69845054,Medium,Less than 5,College,None or 1
+554,Bad,29.96312151,Low,5 or more,College,More than 2
+555,Bad,26.8063044,Low,5 or more,College,More than 2
+556,Bad,47.54995715,High,5 or more,College,More than 2
+557,Bad,36.92340946,Low,5 or more,College,More than 2
+558,Bad,21.09872982,Low,5 or more,College,More than 2
+559,Bad,40.12350149,Medium,5 or more,College,More than 2
+560,Bad,42.72338582,Low,5 or more,High school,More than 2
+561,Bad,20.86888022,Medium,5 or more,High school,More than 2
+562,Bad,22.56213069,Low,5 or more,College,More than 2
+563,Bad,30.41242285,Low,5 or more,College,More than 2
+564,Bad,22.92924177,Low,5 or more,College,More than 2
+565,Bad,40.12180193,Low,5 or more,High school,More than 2
+566,Bad,26.93638714,Low,5 or more,College,More than 2
+567,Bad,20.35877121,Medium,5 or more,College,More than 2
+568,Bad,22.14610196,Low,5 or more,High school,More than 2
+569,Bad,29.72433124,Low,5 or more,High school,More than 2
+570,Bad,24.8744518,Low,5 or more,High school,More than 2
+571,Bad,27.48602103,Low,5 or more,High school,More than 2
+572,Bad,35.59914089,Low,5 or more,High school,More than 2
+573,Bad,29.77053993,Medium,5 or more,College,More than 2
+574,Bad,34.25983581,Medium,Less than 5,High school,None or 1
+575,Bad,29.94184332,Medium,5 or more,High school,More than 2
+576,Bad,37.74803407,Medium,5 or more,High school,More than 2
+577,Bad,36.82761645,Low,5 or more,College,More than 2
+578,Bad,27.93460984,Medium,5 or more,College,More than 2
+579,Bad,38.40253446,Low,5 or more,College,More than 2
+580,Bad,35.55779935,Low,5 or more,College,None or 1
+581,Bad,36.23193677,Medium,5 or more,College,More than 2
+582,Bad,36.72838538,Low,5 or more,High school,More than 2
+583,Bad,30.61591245,Low,5 or more,High school,More than 2
+584,Bad,28.46324537,Medium,5 or more,College,None or 1
+585,Bad,29.11312583,Medium,5 or more,High school,More than 2
+586,Bad,32.42691748,Medium,5 or more,College,None or 1
+587,Bad,34.07728059,Low,5 or more,College,More than 2
+588,Bad,31.75246243,Low,5 or more,College,More than 2
+589,Bad,31.98238882,Medium,5 or more,College,None or 1
+590,Bad,20.17105179,Low,5 or more,High school,More than 2
+591,Bad,23.0581369,Medium,5 or more,High school,More than 2
+592,Bad,36.39807832,Medium,5 or more,College,More than 2
+593,Bad,38.61038394,Low,5 or more,High school,More than 2
+594,Bad,29.4889527,High,Less than 5,High school,None or 1
+595,Bad,31.04233579,Low,5 or more,College,More than 2
+596,Bad,32.42018589,Medium,5 or more,High school,More than 2
+597,Bad,34.39192212,Medium,5 or more,College,More than 2
+598,Bad,24.31230474,Medium,5 or more,High school,More than 2
+599,Bad,53.81778626,Medium,5 or more,High school,More than 2
+600,Bad,23.28778206,Low,Less than 5,High school,None or 1
+601,Bad,29.08493162,Low,Less than 5,College,None or 1
+602,Bad,38.26909841,High,5 or more,High school,More than 2
+603,Bad,37.85556312,Low,5 or more,College,More than 2
+604,Bad,20.01250656,Medium,5 or more,College,More than 2
+605,Bad,20.30508762,Medium,5 or more,High school,More than 2
+606,Bad,26.66147004,Low,5 or more,College,None or 1
+607,Bad,38.84099839,Low,5 or more,College,More than 2
+608,Bad,35.1782534,Medium,5 or more,High school,More than 2
+609,Bad,27.7653946,Medium,5 or more,College,More than 2
+610,Bad,28.90084529,Medium,5 or more,College,More than 2
+611,Bad,32.75619503,High,5 or more,High school,More than 2
+612,Bad,23.04286527,Medium,5 or more,College,More than 2
+613,Bad,21.97120414,High,Less than 5,High school,None or 1
+614,Bad,36.62362673,Low,5 or more,College,More than 2
+615,Bad,41.58776502,Medium,5 or more,College,More than 2
+616,Bad,20.20286359,Low,5 or more,High school,None or 1
+617,Bad,29.11121752,High,5 or more,College,None or 1
+618,Bad,27.31440678,Medium,5 or more,College,More than 2
+619,Bad,50.12233327,Low,5 or more,College,More than 2
+620,Bad,36.05326244,Low,5 or more,College,More than 2
+621,Bad,30.7605965,Low,5 or more,High school,None or 1
+622,Bad,20.48971409,Medium,5 or more,High school,More than 2
+623,Bad,30.79242407,Low,5 or more,College,More than 2
+624,Bad,25.49524436,Medium,5 or more,High school,More than 2
+625,Bad,20.86517019,Low,5 or more,High school,More than 2
+626,Bad,26.9571002,Low,5 or more,College,More than 2
+627,Bad,34.03531448,Low,5 or more,College,More than 2
+628,Bad,21.18345093,Low,5 or more,College,More than 2
+629,Bad,27.38327058,Low,5 or more,College,More than 2
+630,Bad,37.5657149,Medium,5 or more,High school,More than 2
+631,Bad,35.7617527,Low,5 or more,College,More than 2
+632,Bad,27.13585098,Low,5 or more,High school,More than 2
+633,Bad,30.24610171,Medium,5 or more,High school,More than 2
+634,Bad,34.66818757,Medium,Less than 5,College,None or 1
+635,Bad,29.49261273,Low,5 or more,College,More than 2
+636,Bad,28.61380592,Medium,5 or more,College,More than 2
+637,Bad,24.7618382,Low,5 or more,College,More than 2
+638,Bad,29.57534415,High,5 or more,College,More than 2
+639,Bad,27.84043404,Medium,5 or more,College,More than 2
+640,Bad,21.69889498,Medium,5 or more,College,More than 2
+641,Bad,33.1070287,Low,5 or more,High school,More than 2
+642,Bad,24.60455496,High,5 or more,High school,More than 2
+643,Bad,26.5192929,High,5 or more,College,More than 2
+644,Bad,22.59492778,Medium,5 or more,High school,More than 2
+645,Bad,30.89244669,Low,5 or more,College,More than 2
+646,Bad,44.19835133,Low,5 or more,College,More than 2
+647,Bad,24.49088148,Low,5 or more,High school,More than 2
+648,Bad,21.11338872,Medium,5 or more,College,More than 2
+649,Bad,24.11709262,Medium,5 or more,High school,More than 2
+650,Bad,36.88559277,Medium,5 or more,High school,More than 2
+651,Bad,32.17056921,Low,5 or more,College,More than 2
+652,Bad,24.55237995,Medium,5 or more,College,More than 2
+653,Bad,34.05447788,Medium,5 or more,High school,More than 2
+654,Bad,33.58240507,Medium,5 or more,College,More than 2
+655,Bad,27.32811535,Low,5 or more,High school,More than 2
+656,Bad,21.05143431,Low,Less than 5,High school,None or 1
+657,Bad,29.30343966,Low,5 or more,College,More than 2
+658,Bad,26.09235551,Medium,5 or more,High school,More than 2
+659,Bad,42.47409298,Medium,5 or more,High school,More than 2
+660,Bad,23.28705739,Low,5 or more,College,More than 2
+661,Bad,27.46044571,Low,5 or more,High school,More than 2
+662,Bad,20.21362095,Medium,5 or more,High school,More than 2
+663,Bad,27.3063089,Low,Less than 5,College,None or 1
+664,Bad,24.05293384,Low,5 or more,High school,More than 2
+665,Bad,27.65294831,Low,5 or more,High school,None or 1
+666,Bad,35.26702232,Low,5 or more,High school,More than 2
+667,Bad,25.66650087,High,5 or more,College,More than 2
+668,Bad,20.47617092,Medium,5 or more,High school,None or 1
+669,Bad,41.62312387,Medium,5 or more,College,More than 2
+670,Bad,40.79781177,Medium,5 or more,High school,More than 2
+671,Bad,21.76938186,Medium,5 or more,High school,More than 2
+672,Bad,33.21439149,Medium,5 or more,High school,More than 2
+673,Bad,26.09012499,Medium,5 or more,College,More than 2
+674,Bad,25.99340327,Low,5 or more,High school,More than 2
+675,Bad,28.81835476,Medium,5 or more,High school,More than 2
+676,Bad,29.81043574,Low,5 or more,College,More than 2
+677,Bad,26.95671571,Medium,5 or more,High school,More than 2
+678,Bad,27.69549282,High,5 or more,High school,More than 2
+679,Bad,36.23385984,Medium,5 or more,College,More than 2
+680,Bad,40.65147773,Medium,5 or more,High school,None or 1
+681,Bad,23.78355005,Medium,5 or more,High school,More than 2
+682,Bad,29.41170758,Low,5 or more,High school,More than 2
+683,Bad,29.95433685,Low,5 or more,High school,More than 2
+684,Bad,51.28467721,Low,5 or more,High school,More than 2
+685,Bad,30.41445053,Low,5 or more,College,More than 2
+686,Bad,21.26272562,Medium,5 or more,High school,More than 2
+687,Bad,20.62318391,Low,Less than 5,College,More than 2
+688,Bad,32.59673205,Low,5 or more,College,More than 2
+689,Bad,37.78944162,High,5 or more,College,More than 2
+690,Bad,40.2250887,Low,5 or more,High school,More than 2
+691,Bad,33.94558544,Medium,5 or more,High school,More than 2
+692,Bad,25.98362197,Medium,Less than 5,High school,None or 1
+693,Bad,23.95771393,Low,5 or more,College,More than 2
+694,Bad,26.855842,Medium,5 or more,High school,More than 2
+695,Bad,24.38160478,Medium,5 or more,High school,More than 2
+696,Bad,33.97846552,High,5 or more,College,None or 1
+697,Bad,22.18320951,Medium,5 or more,High school,More than 2
+698,Bad,46.5429946,Medium,5 or more,High school,More than 2
+699,Bad,33.70503272,Medium,5 or more,High school,More than 2
+700,Bad,25.01264328,High,5 or more,High school,More than 2
+701,Bad,29.02476961,Low,5 or more,High school,More than 2
+702,Bad,31.34657838,Medium,5 or more,High school,None or 1
+703,Bad,24.14039535,Low,5 or more,College,More than 2
+704,Bad,25.83734945,Medium,5 or more,High school,More than 2
+705,Bad,40.03579989,Medium,5 or more,High school,More than 2
+706,Bad,47.43959304,Medium,5 or more,High school,More than 2
+707,Bad,40.99421873,Low,5 or more,High school,More than 2
+708,Bad,46.48325567,Low,5 or more,High school,More than 2
+709,Bad,21.37982042,Medium,5 or more,College,More than 2
+710,Bad,22.16963908,Low,5 or more,College,More than 2
+711,Bad,31.39195401,Low,5 or more,High school,More than 2
+712,Bad,35.32779318,Low,Less than 5,High school,None or 1
+713,Bad,27.96346091,Low,5 or more,High school,More than 2
+714,Bad,20.55708048,Low,5 or more,High school,More than 2
+715,Bad,26.40086718,Low,5 or more,College,More than 2
+716,Bad,43.9194039,Low,5 or more,College,More than 2
+717,Bad,33.65046753,Medium,Less than 5,High school,None or 1
+718,Bad,22.52800809,Medium,5 or more,High school,More than 2
+719,Bad,25.52655611,Medium,5 or more,College,More than 2
+720,Bad,26.06573734,Low,5 or more,College,None or 1
+721,Bad,26.77482164,Medium,5 or more,High school,More than 2
+722,Bad,20.49068745,Low,5 or more,High school,More than 2
+723,Bad,33.12966254,Medium,5 or more,High school,More than 2
+724,Bad,41.99645432,Low,5 or more,College,More than 2
+725,Bad,27.98694728,Medium,5 or more,High school,More than 2
+726,Bad,36.3608107,Low,5 or more,High school,More than 2
+727,Bad,23.5058278,Medium,5 or more,College,More than 2
+728,Bad,23.31792867,Medium,5 or more,College,More than 2
+729,Bad,23.26183245,Medium,5 or more,High school,More than 2
+730,Bad,27.37628033,Medium,5 or more,College,More than 2
+731,Bad,36.4205848,Low,5 or more,College,More than 2
+732,Bad,34.32393482,Medium,5 or more,College,More than 2
+733,Bad,30.59218896,Low,5 or more,High school,More than 2
+734,Bad,27.94044885,Medium,5 or more,College,More than 2
+735,Bad,35.46213124,Medium,5 or more,College,More than 2
+736,Bad,23.88537595,Medium,5 or more,College,More than 2
+737,Bad,30.59854216,Medium,5 or more,High school,More than 2
+738,Bad,29.34987456,Low,5 or more,College,More than 2
+739,Bad,22.18499333,Low,Less than 5,College,More than 2
+740,Bad,21.15322184,Low,5 or more,High school,More than 2
+741,Bad,38.19254946,High,5 or more,College,More than 2
+742,Bad,33.55372544,Low,5 or more,College,More than 2
+743,Bad,33.15377162,Medium,5 or more,High school,More than 2
+744,Bad,24.44583652,Low,5 or more,College,More than 2
+745,Bad,20.93325945,Medium,5 or more,College,More than 2
+746,Bad,31.15517627,Medium,5 or more,High school,More than 2
+747,Bad,24.74100444,Low,5 or more,College,None or 1
+748,Bad,42.76094835,Low,5 or more,High school,More than 2
+749,Bad,21.0077801,Low,5 or more,College,More than 2
+750,Bad,32.15961287,Low,5 or more,High school,More than 2
+751,Bad,29.43524299,Medium,5 or more,High school,More than 2
+752,Bad,29.53362446,High,5 or more,High school,More than 2
+753,Bad,20.11613271,Medium,5 or more,College,More than 2
+754,Bad,41.63352291,Low,5 or more,High school,More than 2
+755,Bad,34.84413683,Low,5 or more,College,More than 2
+756,Bad,39.26856062,Medium,5 or more,College,More than 2
+757,Bad,37.60809251,Low,5 or more,High school,More than 2
+758,Bad,24.76633344,Medium,5 or more,College,More than 2
+759,Bad,25.86017373,Low,5 or more,College,More than 2
+760,Bad,24.91205507,Medium,Less than 5,College,None or 1
+761,Bad,21.84046745,Medium,5 or more,College,More than 2
+762,Bad,35.90020605,Medium,5 or more,High school,More than 2
+763,Bad,34.17284674,Low,5 or more,High school,More than 2
+764,Bad,25.81054614,Medium,5 or more,High school,More than 2
+765,Bad,20.03346141,Medium,5 or more,High school,More than 2
+766,Bad,40.09979863,Low,5 or more,College,More than 2
+767,Bad,26.39226042,Medium,5 or more,College,More than 2
+768,Bad,23.949121,Low,5 or more,College,None or 1
+769,Bad,39.80888599,Low,5 or more,High school,More than 2
+770,Bad,41.30344568,Low,5 or more,High school,More than 2
+771,Bad,27.55796811,Medium,5 or more,College,More than 2
+772,Bad,20.00269952,Medium,5 or more,High school,None or 1
+773,Bad,22.95659667,Low,5 or more,High school,More than 2
+774,Bad,24.8280893,Medium,5 or more,College,More than 2
+775,Bad,26.71540889,Medium,5 or more,College,More than 2
+776,Bad,22.16826199,Low,5 or more,College,More than 2
+777,Bad,20.26738079,Medium,5 or more,College,More than 2
+778,Bad,45.04133866,Medium,5 or more,High school,More than 2
+779,Bad,38.97240721,Medium,5 or more,High school,More than 2
+780,Bad,33.88162407,Low,Less than 5,High school,None or 1
+781,Bad,29.29553165,High,5 or more,College,None or 1
+782,Bad,20.87693835,Low,5 or more,High school,More than 2
+783,Bad,34.08942653,Medium,5 or more,High school,None or 1
+784,Bad,25.6820524,Low,5 or more,High school,More than 2
+785,Bad,33.7409057,Medium,Less than 5,High school,None or 1
+786,Bad,37.54456497,Medium,5 or more,High school,More than 2
+787,Bad,36.2879447,Medium,5 or more,College,More than 2
+788,Bad,22.08650737,Medium,5 or more,College,More than 2
+789,Bad,22.00510792,Low,5 or more,High school,More than 2
+790,Bad,34.99870234,Low,5 or more,High school,More than 2
+791,Bad,22.14048179,Low,5 or more,High school,More than 2
+792,Bad,38.89205181,Medium,5 or more,High school,More than 2
+793,Bad,20.94343168,Low,Less than 5,High school,None or 1
+794,Bad,25.97544154,Medium,5 or more,College,More than 2
+795,Bad,30.27321162,Low,5 or more,High school,More than 2
+796,Bad,34.53744707,Low,5 or more,College,More than 2
+797,Bad,32.5358619,Medium,5 or more,High school,None or 1
+798,Bad,26.78232001,Medium,5 or more,College,None or 1
+799,Bad,31.06533368,Low,5 or more,College,None or 1
+800,Bad,25.37712795,Low,5 or more,College,More than 2
+801,Bad,27.61489383,High,5 or more,College,More than 2
+802,Bad,23.86120532,Low,5 or more,College,More than 2
+803,Bad,21.42335493,Medium,5 or more,College,More than 2
+804,Bad,34.98223906,Medium,5 or more,High school,More than 2
+805,Bad,31.74262105,Low,5 or more,High school,More than 2
+806,Bad,31.06034045,Low,5 or more,College,More than 2
+807,Bad,24.95047836,Medium,Less than 5,High school,None or 1
+808,Bad,37.85738184,Medium,5 or more,College,More than 2
+809,Bad,22.17708033,High,5 or more,High school,None or 1
+810,Bad,24.25225444,Low,5 or more,High school,More than 2
+811,Bad,24.17467398,Medium,5 or more,College,None or 1
+812,Bad,44.10764854,Low,5 or more,College,More than 2
+813,Bad,41.43110553,Low,5 or more,College,More than 2
+814,Bad,24.85561324,Low,5 or more,High school,More than 2
+815,Bad,22.71334893,Medium,5 or more,High school,More than 2
+816,Bad,23.33659819,High,5 or more,College,More than 2
+817,Bad,24.01997951,High,5 or more,High school,More than 2
+818,Bad,47.96737568,Low,5 or more,College,More than 2
+819,Bad,20.30740252,Medium,5 or more,College,More than 2
+820,Bad,46.55518276,Low,5 or more,College,More than 2
+821,Bad,25.95117869,Low,5 or more,College,More than 2
+822,Bad,32.2654083,Low,5 or more,High school,More than 2
+823,Bad,23.86261358,Low,5 or more,High school,More than 2
+824,Bad,26.58437209,High,5 or more,College,None or 1
+825,Bad,33.82867445,Medium,5 or more,College,More than 2
+826,Bad,29.47983821,Low,5 or more,College,None or 1
+827,Bad,24.92149975,Medium,5 or more,High school,More than 2
+828,Bad,27.1808711,Medium,Less than 5,College,None or 1
+829,Bad,27.7875833,High,5 or more,High school,More than 2
+830,Bad,26.96808745,High,5 or more,High school,More than 2
+831,Bad,28.98338483,Low,5 or more,College,More than 2
+832,Bad,22.72768108,Medium,5 or more,High school,More than 2
+833,Bad,21.85146643,Medium,5 or more,High school,More than 2
+834,Bad,30.79577221,Medium,5 or more,High school,More than 2
+835,Bad,21.33512898,Low,5 or more,High school,More than 2
+836,Bad,23.9772999,Low,5 or more,College,More than 2
+837,Bad,20.96986153,Medium,5 or more,College,More than 2
+838,Bad,22.73040101,Medium,Less than 5,College,None or 1
+839,Bad,26.96397709,High,5 or more,High school,More than 2
+840,Bad,29.41516511,Low,5 or more,College,More than 2
+841,Bad,38.14735833,Medium,5 or more,College,More than 2
+842,Bad,30.38060291,Medium,5 or more,College,More than 2
+843,Bad,24.58726839,Medium,5 or more,High school,More than 2
+844,Bad,23.2510963,Medium,5 or more,High school,More than 2
+845,Bad,26.72459925,Low,5 or more,College,None or 1
+846,Bad,28.76480227,Low,5 or more,High school,More than 2
+847,Bad,28.67027642,Medium,Less than 5,High school,None or 1
+848,Bad,24.53876433,Low,5 or more,High school,More than 2
+849,Bad,35.46514758,High,5 or more,High school,More than 2
+850,Bad,22.38572273,Low,5 or more,College,More than 2
+851,Bad,27.88997424,Low,5 or more,High school,More than 2
+852,Bad,31.89024452,Low,5 or more,High school,More than 2
+853,Bad,21.28127446,Medium,5 or more,College,More than 2
+854,Bad,40.63729748,High,5 or more,College,More than 2
+855,Bad,31.62274,Low,5 or more,College,More than 2
+856,Bad,29.25165113,Medium,5 or more,College,More than 2
+857,Bad,27.62821341,High,5 or more,College,More than 2
+858,Bad,37.19408361,Medium,5 or more,College,More than 2
+859,Bad,24.55854224,Medium,Less than 5,College,None or 1
+860,Bad,24.87570625,Low,5 or more,College,More than 2
+861,Bad,22.74680561,High,5 or more,High school,More than 2
+862,Bad,24.55731005,Medium,5 or more,High school,More than 2
+863,Bad,32.30777267,Low,5 or more,High school,More than 2
+864,Bad,22.05916134,Medium,5 or more,High school,More than 2
+865,Bad,26.68016667,Low,5 or more,College,More than 2
+866,Bad,27.50646963,Medium,5 or more,College,More than 2
+867,Bad,43.87323601,Medium,5 or more,High school,More than 2
+868,Bad,22.61011133,Medium,5 or more,High school,More than 2
+869,Bad,36.35609991,Medium,5 or more,College,More than 2
+870,Bad,25.69294355,Low,5 or more,College,More than 2
+871,Bad,36.36121592,Low,Less than 5,High school,None or 1
+872,Bad,35.69239344,High,5 or more,High school,More than 2
+873,Bad,36.76980173,Medium,5 or more,High school,More than 2
+874,Bad,24.47279276,Low,5 or more,College,More than 2
+875,Bad,46.75692537,Medium,5 or more,High school,More than 2
+876,Bad,22.9067572,Low,5 or more,High school,More than 2
+877,Bad,23.26131233,Low,5 or more,High school,More than 2
+878,Bad,28.46127111,Low,5 or more,College,None or 1
+879,Bad,24.82598091,Low,5 or more,High school,More than 2
+880,Bad,25.56566116,Medium,5 or more,High school,More than 2
+881,Bad,20.01921695,Medium,5 or more,High school,More than 2
+882,Bad,30.75794089,Medium,5 or more,High school,More than 2
+883,Bad,33.10025187,Low,5 or more,College,More than 2
+884,Bad,22.62662119,Low,5 or more,College,More than 2
+885,Bad,21.14938008,Low,5 or more,College,More than 2
+886,Bad,23.5026552,Low,Less than 5,College,None or 1
+887,Bad,23.96915468,High,5 or more,High school,More than 2
+888,Bad,20.78778815,Low,5 or more,High school,More than 2
+889,Bad,28.92521017,High,5 or more,High school,More than 2
+890,Bad,20.51535822,Low,5 or more,High school,More than 2
+891,Bad,27.21005339,Medium,5 or more,High school,None or 1
+892,Bad,34.75174961,Low,5 or more,High school,More than 2
+893,Bad,26.12517667,Medium,5 or more,High school,More than 2
+894,Bad,24.61141528,Medium,5 or more,College,More than 2
+895,Bad,20.48729843,Low,5 or more,High school,More than 2
+896,Bad,29.01365377,Low,5 or more,College,More than 2
+897,Bad,23.37676212,Medium,5 or more,High school,More than 2
+898,Bad,28.84961543,High,5 or more,College,More than 2
+899,Bad,21.14705326,Low,5 or more,High school,More than 2
+900,Bad,26.40474227,High,5 or more,High school,More than 2
+901,Bad,24.88745817,Medium,5 or more,High school,More than 2
+902,Bad,27.19257668,Medium,5 or more,High school,More than 2
+903,Bad,30.91777705,Medium,5 or more,College,More than 2
+904,Bad,41.79401089,Low,5 or more,College,More than 2
+905,Bad,33.7332986,Medium,5 or more,High school,More than 2
+906,Bad,39.26085277,Low,5 or more,High school,More than 2
+907,Bad,38.44936394,Low,5 or more,College,None or 1
+908,Bad,41.05375558,Medium,5 or more,College,More than 2
+909,Bad,22.71962748,Medium,5 or more,High school,More than 2
+910,Bad,23.16409933,Medium,5 or more,High school,More than 2
+911,Bad,22.84421099,Low,5 or more,College,More than 2
+912,Bad,30.5718002,Medium,5 or more,High school,More than 2
+913,Bad,29.78760659,Low,5 or more,College,More than 2
+914,Bad,51.58193658,Low,5 or more,High school,More than 2
+915,Bad,22.32543037,Medium,5 or more,High school,More than 2
+916,Bad,37.85453742,Medium,5 or more,High school,More than 2
+917,Bad,35.93874543,Medium,5 or more,High school,More than 2
+918,Bad,33.39624662,High,5 or more,High school,More than 2
+919,Bad,23.28537954,Medium,5 or more,College,More than 2
+920,Bad,42.43267109,Low,5 or more,College,More than 2
+921,Bad,30.69052198,Low,5 or more,High school,More than 2
+922,Bad,29.5607256,Medium,5 or more,College,More than 2
+923,Bad,37.31089515,Low,Less than 5,College,None or 1
+924,Bad,28.26656978,Low,5 or more,High school,More than 2
+925,Bad,30.65980718,Medium,5 or more,High school,More than 2
+926,Bad,24.88994175,Low,5 or more,High school,More than 2
+927,Bad,30.93432662,High,5 or more,College,More than 2
+928,Bad,26.30196599,Medium,5 or more,High school,More than 2
+929,Bad,26.27784071,Low,5 or more,College,More than 2
+930,Bad,47.65603515,Low,5 or more,College,More than 2
+931,Bad,42.85343879,Low,5 or more,College,More than 2
+932,Bad,22.73331058,Low,5 or more,High school,More than 2
+933,Bad,30.81052096,Low,5 or more,College,More than 2
+934,Bad,31.60376167,High,5 or more,College,More than 2
+935,Bad,27.4014701,Low,5 or more,High school,More than 2
+936,Bad,31.85016518,High,5 or more,College,None or 1
+937,Bad,31.36593356,Medium,5 or more,College,More than 2
+938,Bad,25.57947266,Medium,5 or more,College,More than 2
+939,Bad,25.65391845,Medium,5 or more,College,More than 2
+940,Bad,29.74996531,Low,Less than 5,College,None or 1
+941,Bad,20.36770018,Low,5 or more,High school,More than 2
+942,Bad,25.62845543,Medium,5 or more,High school,None or 1
+943,Bad,34.00059607,Low,5 or more,College,More than 2
+944,Bad,26.71173904,Low,5 or more,High school,More than 2
+945,Bad,32.90594969,High,5 or more,High school,None or 1
+946,Bad,36.28441698,Medium,5 or more,College,More than 2
+947,Bad,29.28023731,Medium,5 or more,College,More than 2
+948,Bad,34.25680645,High,Less than 5,High school,None or 1
+949,Bad,27.4935228,Low,5 or more,College,More than 2
+950,Bad,23.64878109,High,Less than 5,College,More than 2
+951,Bad,20.31242185,Low,5 or more,College,More than 2
+952,Bad,26.43108501,Low,5 or more,High school,More than 2
+953,Bad,40.61591216,Low,Less than 5,High school,None or 1
+954,Bad,20.91237569,Medium,5 or more,High school,More than 2
+955,Bad,30.03412811,High,5 or more,High school,More than 2
+956,Bad,21.95066929,Medium,5 or more,High school,More than 2
+957,Bad,22.56709114,High,5 or more,College,More than 2
+958,Bad,30.23396034,Medium,5 or more,High school,More than 2
+959,Bad,22.39621735,Low,5 or more,High school,More than 2
+960,Bad,31.40683822,Low,5 or more,College,More than 2
+961,Bad,34.41738241,Low,5 or more,High school,More than 2
+962,Bad,41.30533788,Medium,5 or more,College,More than 2
+963,Bad,27.62679025,Low,5 or more,High school,More than 2
+964,Bad,31.34788508,High,Less than 5,College,None or 1
+965,Bad,48.86052018,Low,5 or more,College,More than 2
+966,Bad,34.23445969,Low,5 or more,College,More than 2
+967,Bad,42.08152605,Medium,5 or more,College,More than 2
+968,Bad,40.52667901,High,5 or more,High school,More than 2
+969,Bad,27.62996199,Medium,5 or more,College,More than 2
+970,Bad,21.38424191,Medium,5 or more,High school,More than 2
+971,Bad,35.41215027,Medium,5 or more,College,More than 2
+972,Bad,42.80643994,Medium,5 or more,College,More than 2
+973,Bad,21.73732273,Low,5 or more,College,None or 1
+974,Bad,41.06425941,Low,5 or more,High school,More than 2
+975,Bad,22.84824902,Medium,5 or more,High school,More than 2
+976,Bad,33.48350688,High,5 or more,College,More than 2
+977,Bad,54.79615655,High,5 or more,College,More than 2
+978,Bad,24.06743723,High,5 or more,College,More than 2
+979,Bad,25.77990275,Medium,5 or more,College,More than 2
+980,Bad,47.25747886,Low,5 or more,College,More than 2
+981,Bad,32.08141157,Low,5 or more,High school,More than 2
+982,Bad,21.49508574,Medium,5 or more,College,None or 1
+983,Bad,23.83317834,Low,Less than 5,High school,None or 1
+984,Bad,39.5283925,Medium,5 or more,High school,More than 2
+985,Bad,29.72511796,High,Less than 5,College,None or 1
+986,Bad,28.41633324,Low,Less than 5,College,None or 1
+987,Bad,41.09724188,High,5 or more,High school,None or 1
+988,Bad,28.42864766,Medium,5 or more,College,More than 2
+989,Bad,25.22770546,Low,5 or more,College,More than 2
+990,Bad,30.82369228,Medium,5 or more,College,More than 2
+991,Bad,29.17483788,Medium,5 or more,College,None or 1
+992,Bad,29.98796743,High,5 or more,High school,More than 2
+993,Bad,27.83876556,Low,5 or more,High school,More than 2
+994,Bad,20.95885571,Medium,5 or more,College,More than 2
+995,Bad,30.23218536,Medium,Less than 5,High school,None or 1
+996,Bad,41.32263738,Medium,5 or more,College,More than 2
+997,Bad,23.03708987,Low,5 or more,High school,More than 2
+998,Bad,27.03298353,Medium,5 or more,High school,More than 2
+999,Bad,38.35664991,Low,5 or more,College,More than 2
+1000,Bad,49.62383993,Low,5 or more,College,More than 2
+1001,Bad,30.34116942,Medium,5 or more,College,More than 2
+1002,Bad,27.92602585,Medium,5 or more,College,More than 2
+1003,Bad,21.65694167,Low,5 or more,College,More than 2
+1004,Bad,24.33707628,Low,5 or more,High school,More than 2
+1005,Bad,23.7327922,Low,5 or more,College,More than 2
+1006,Bad,20.44849232,Medium,5 or more,College,More than 2
+1007,Bad,29.27400613,Low,5 or more,College,More than 2
+1008,Bad,23.38447704,Medium,5 or more,College,More than 2
+1009,Bad,27.32110453,Low,5 or more,High school,More than 2
+1010,Bad,20.75131971,Medium,5 or more,College,More than 2
+1011,Bad,20.81764149,Low,Less than 5,College,More than 2
+1012,Bad,29.61636201,Low,5 or more,College,More than 2
+1013,Bad,21.86082659,Low,5 or more,High school,More than 2
+1014,Bad,45.50957283,Medium,5 or more,College,More than 2
+1015,Bad,26.94202725,Medium,5 or more,High school,None or 1
+1016,Bad,22.26228675,Medium,5 or more,High school,More than 2
+1017,Bad,20.76096901,Medium,Less than 5,College,None or 1
+1018,Bad,39.16296308,Medium,5 or more,High school,More than 2
+1019,Bad,33.41951197,Low,5 or more,College,More than 2
+1020,Bad,23.02235762,Medium,5 or more,College,More than 2
+1021,Good,56.90960584,High,Less than 5,High school,None or 1
+1022,Good,50.53240163,Medium,5 or more,High school,More than 2
+1023,Good,27.01939964,High,Less than 5,High school,None or 1
+1024,Good,28.10498768,Low,Less than 5,High school,None or 1
+1025,Good,29.52696214,High,Less than 5,High school,More than 2
+1026,Good,28.01892898,High,5 or more,High school,More than 2
+1027,Good,42.44428191,High,5 or more,High school,None or 1
+1028,Good,35.03151949,Medium,5 or more,High school,None or 1
+1029,Good,23.94427487,Medium,Less than 5,High school,None or 1
+1030,Good,35.73524188,High,Less than 5,High school,None or 1
+1031,Good,29.93339432,Medium,Less than 5,College,None or 1
+1032,Good,41.23043829,Medium,Less than 5,College,None or 1
+1033,Good,41.9304858,Medium,5 or more,College,More than 2
+1034,Good,43.53806341,Medium,5 or more,College,More than 2
+1035,Good,42.2945218,High,5 or more,College,More than 2
+1036,Good,39.10722413,High,5 or more,College,None or 1
+1037,Good,54.13536365,High,5 or more,College,More than 2
+1038,Good,37.36017544,Medium,Less than 5,High school,None or 1
+1039,Good,40.17559513,Low,5 or more,High school,More than 2
+1040,Good,32.71164483,Medium,Less than 5,High school,None or 1
+1041,Good,30.89247528,Medium,5 or more,High school,More than 2
+1042,Good,34.03823584,Medium,5 or more,High school,More than 2
+1043,Good,38.3311812,High,5 or more,College,None or 1
+1044,Good,48.14640604,High,5 or more,College,More than 2
+1045,Good,44.44193713,Medium,5 or more,College,More than 2
+1046,Good,38.79547073,Medium,Less than 5,College,None or 1
+1047,Good,38.60483194,Medium,5 or more,High school,More than 2
+1048,Good,34.17656749,Medium,Less than 5,High school,None or 1
+1049,Good,35.89749027,Medium,Less than 5,College,None or 1
+1050,Good,32.46749769,Medium,Less than 5,High school,None or 1
+1051,Good,29.45143217,Medium,5 or more,College,More than 2
+1052,Good,38.44306256,Medium,Less than 5,College,None or 1
+1053,Good,33.56491788,High,5 or more,High school,More than 2
+1054,Good,27.26846899,Medium,5 or more,High school,More than 2
+1055,Good,22.05350578,High,Less than 5,High school,None or 1
+1056,Good,43.09179781,Medium,Less than 5,College,None or 1
+1057,Good,39.9979753,Low,5 or more,College,More than 2
+1058,Good,21.30824514,Medium,5 or more,College,None or 1
+1059,Good,37.81518606,Medium,5 or more,College,More than 2
+1060,Good,43.15730954,High,Less than 5,College,None or 1
+1061,Good,35.61590089,Medium,5 or more,High school,More than 2
+1062,Good,39.8556428,High,5 or more,High school,More than 2
+1063,Good,38.35852463,Medium,5 or more,High school,More than 2
+1064,Good,30.25380435,High,Less than 5,College,More than 2
+1065,Good,34.27830861,Medium,Less than 5,College,None or 1
+1066,Good,32.11136762,Medium,Less than 5,College,None or 1
+1067,Good,47.19124232,Medium,Less than 5,High school,None or 1
+1068,Good,36.08157957,High,Less than 5,High school,None or 1
+1069,Good,26.82837202,High,Less than 5,High school,None or 1
+1070,Good,29.61920249,High,5 or more,High school,More than 2
+1071,Good,28.0566354,High,Less than 5,College,More than 2
+1072,Good,29.1545255,High,5 or more,High school,More than 2
+1073,Good,42.21045431,Medium,Less than 5,High school,None or 1
+1074,Good,51.95645716,Medium,Less than 5,College,More than 2
+1075,Good,34.40259837,Medium,Less than 5,High school,None or 1
+1076,Good,43.41298112,High,Less than 5,College,None or 1
+1077,Good,30.43516139,Medium,Less than 5,College,None or 1
+1078,Good,37.86075271,Medium,5 or more,High school,More than 2
+1079,Good,27.77074349,Medium,Less than 5,High school,None or 1
+1080,Good,47.18132892,Medium,Less than 5,High school,None or 1
+1081,Good,40.2980094,High,5 or more,College,More than 2
+1082,Good,58.41524573,Medium,5 or more,High school,None or 1
+1083,Good,24.81956663,High,5 or more,College,More than 2
+1084,Good,37.30151173,Medium,5 or more,High school,More than 2
+1085,Good,39.68038387,High,5 or more,High school,None or 1
+1086,Good,40.07420603,Medium,Less than 5,College,None or 1
+1087,Good,43.00267822,High,Less than 5,College,None or 1
+1088,Good,44.74728965,Medium,Less than 5,College,None or 1
+1089,Good,21.39502029,High,5 or more,High school,More than 2
+1090,Good,41.43393133,High,Less than 5,College,None or 1
+1091,Good,48.18829924,Low,5 or more,High school,None or 1
+1092,Good,46.51888369,Medium,5 or more,High school,More than 2
+1093,Good,33.29583819,Medium,5 or more,High school,More than 2
+1094,Good,27.87347426,Medium,Less than 5,College,None or 1
+1095,Good,49.51467929,Medium,5 or more,College,More than 2
+1096,Good,35.86774475,High,Less than 5,College,None or 1
+1097,Good,41.96098616,High,5 or more,College,More than 2
+1098,Good,34.74802873,Medium,Less than 5,College,None or 1
+1099,Good,33.72490354,High,Less than 5,College,None or 1
+1100,Good,39.69209841,High,Less than 5,High school,None or 1
+1101,Good,42.34632879,High,5 or more,College,More than 2
+1102,Good,32.70030958,High,5 or more,High school,More than 2
+1103,Good,26.27286421,High,5 or more,High school,None or 1
+1104,Good,25.13460253,High,5 or more,High school,More than 2
+1105,Good,29.53772611,Medium,5 or more,High school,More than 2
+1106,Good,27.92280865,High,Less than 5,High school,None or 1
+1107,Good,36.29251664,High,5 or more,College,More than 2
+1108,Good,44.19826546,Medium,Less than 5,College,None or 1
+1109,Good,34.52936388,High,5 or more,College,More than 2
+1110,Good,41.15098167,High,5 or more,High school,More than 2
+1111,Good,36.74820852,Medium,5 or more,High school,More than 2
+1112,Good,37.52460913,High,Less than 5,High school,None or 1
+1113,Good,46.60264667,Medium,Less than 5,High school,None or 1
+1114,Good,31.45699762,Low,5 or more,High school,More than 2
+1115,Good,36.14661853,Low,Less than 5,College,More than 2
+1116,Good,55.33281632,Medium,Less than 5,High school,None or 1
+1117,Good,27.11677051,Medium,Less than 5,High school,None or 1
+1118,Good,37.36020571,High,Less than 5,High school,None or 1
+1119,Good,27.99377175,High,5 or more,College,More than 2
+1120,Good,42.18355475,High,5 or more,College,More than 2
+1121,Good,39.57502895,High,Less than 5,High school,None or 1
+1122,Good,39.84806311,High,5 or more,College,More than 2
+1123,Good,40.67026153,High,5 or more,College,More than 2
+1124,Good,35.22562872,High,5 or more,College,More than 2
+1125,Good,37.55156981,Medium,Less than 5,College,None or 1
+1126,Good,27.58292368,Low,5 or more,High school,More than 2
+1127,Good,48.4309228,Medium,Less than 5,College,More than 2
+1128,Good,44.29296832,Low,Less than 5,College,None or 1
+1129,Good,27.85062168,Medium,5 or more,College,More than 2
+1130,Good,22.91588163,Medium,5 or more,High school,More than 2
+1131,Good,27.67106725,Medium,Less than 5,College,None or 1
+1132,Good,32.29782898,Medium,5 or more,College,More than 2
+1133,Good,32.88711802,Medium,5 or more,College,More than 2
+1134,Good,21.61502431,High,Less than 5,College,None or 1
+1135,Good,33.73389692,High,Less than 5,High school,None or 1
+1136,Good,35.74343891,High,Less than 5,College,None or 1
+1137,Good,35.63596453,Medium,Less than 5,College,More than 2
+1138,Good,28.24942159,High,Less than 5,College,None or 1
+1139,Good,43.12405294,Medium,5 or more,College,More than 2
+1140,Good,47.27662998,High,Less than 5,High school,None or 1
+1141,Good,35.93029939,High,Less than 5,College,None or 1
+1142,Good,31.48999119,Medium,5 or more,College,None or 1
+1143,Good,47.71284565,High,5 or more,High school,More than 2
+1144,Good,59.46152645,High,5 or more,College,More than 2
+1145,Good,32.35116453,Low,Less than 5,High school,None or 1
+1146,Good,48.3606606,High,5 or more,College,None or 1
+1147,Good,45.91304762,Medium,Less than 5,College,None or 1
+1148,Good,40.73039461,Medium,5 or more,High school,More than 2
+1149,Good,35.89368319,Medium,5 or more,High school,More than 2
+1150,Good,34.32225758,Medium,Less than 5,High school,More than 2
+1151,Good,33.66470814,Medium,Less than 5,College,None or 1
+1152,Good,49.26610892,High,5 or more,College,More than 2
+1153,Good,37.69378239,High,Less than 5,College,None or 1
+1154,Good,34.76461417,Medium,5 or more,College,More than 2
+1155,Good,45.79154766,Medium,Less than 5,High school,None or 1
+1156,Good,21.08828876,High,Less than 5,College,None or 1
+1157,Good,30.61882634,High,5 or more,High school,More than 2
+1158,Good,41.91702965,High,5 or more,High school,More than 2
+1159,Good,39.51818759,Medium,Less than 5,High school,None or 1
+1160,Good,31.48229941,High,Less than 5,High school,None or 1
+1161,Good,41.4868105,High,Less than 5,College,None or 1
+1162,Good,34.75878729,High,5 or more,High school,More than 2
+1163,Good,42.95845708,High,5 or more,High school,More than 2
+1164,Good,31.63104194,Medium,Less than 5,High school,None or 1
+1165,Good,39.02148282,Medium,Less than 5,High school,None or 1
+1166,Good,51.11045214,Medium,Less than 5,High school,None or 1
+1167,Good,35.59132993,Medium,Less than 5,High school,None or 1
+1168,Good,41.78166332,High,Less than 5,College,None or 1
+1169,Good,20.89635733,Medium,Less than 5,College,None or 1
+1170,Good,31.92312281,Medium,Less than 5,High school,None or 1
+1171,Good,45.06243433,High,5 or more,College,More than 2
+1172,Good,40.547773,Medium,Less than 5,College,None or 1
+1173,Good,57.0569267,Medium,Less than 5,High school,None or 1
+1174,Good,48.83157304,Medium,Less than 5,High school,None or 1
+1175,Good,37.76602101,High,5 or more,College,More than 2
+1176,Good,42.22595466,High,5 or more,College,More than 2
+1177,Good,48.76633894,High,5 or more,College,More than 2
+1178,Good,40.11393429,High,Less than 5,College,None or 1
+1179,Good,33.34809722,High,Less than 5,College,None or 1
+1180,Good,23.15685344,Medium,5 or more,High school,More than 2
+1181,Good,39.38958742,High,5 or more,College,More than 2
+1182,Good,33.75574481,Medium,Less than 5,College,None or 1
+1183,Good,36.68245003,Medium,Less than 5,College,None or 1
+1184,Good,28.29747311,High,Less than 5,College,None or 1
+1185,Good,29.0742131,High,5 or more,College,More than 2
+1186,Good,47.16384211,High,Less than 5,College,None or 1
+1187,Good,27.16953259,Low,Less than 5,High school,None or 1
+1188,Good,29.06551633,Medium,5 or more,College,None or 1
+1189,Good,49.70614431,High,5 or more,High school,More than 2
+1190,Good,40.49816945,High,5 or more,College,More than 2
+1191,Good,32.84509682,Medium,Less than 5,College,More than 2
+1192,Good,37.08329705,Medium,Less than 5,High school,None or 1
+1193,Good,31.66936808,High,Less than 5,High school,None or 1
+1194,Good,37.91979234,High,5 or more,College,More than 2
+1195,Good,39.54004688,Medium,Less than 5,College,None or 1
+1196,Good,40.53488886,Medium,5 or more,College,More than 2
+1197,Good,26.48505969,High,Less than 5,High school,More than 2
+1198,Good,36.30131077,Medium,5 or more,College,More than 2
+1199,Good,40.66486921,High,Less than 5,College,None or 1
+1200,Good,50.91772686,High,5 or more,College,More than 2
+1201,Good,27.2744144,Medium,Less than 5,College,None or 1
+1202,Good,30.20597701,Low,Less than 5,College,None or 1
+1203,Good,41.41716141,Medium,Less than 5,High school,None or 1
+1204,Good,24.70041926,Medium,Less than 5,High school,None or 1
+1205,Good,40.43893278,Low,5 or more,High school,More than 2
+1206,Good,32.56729819,Medium,5 or more,High school,More than 2
+1207,Good,20.54973413,Medium,Less than 5,High school,None or 1
+1208,Good,28.79159985,High,5 or more,College,More than 2
+1209,Good,35.98037799,High,Less than 5,College,None or 1
+1210,Good,27.97078829,High,Less than 5,High school,None or 1
+1211,Good,28.13022066,High,5 or more,College,More than 2
+1212,Good,37.33917414,High,5 or more,College,More than 2
+1213,Good,34.82027245,High,5 or more,High school,More than 2
+1214,Good,42.8660774,Medium,5 or more,High school,More than 2
+1215,Good,38.35614359,Medium,5 or more,College,More than 2
+1216,Good,41.74403848,High,Less than 5,College,None or 1
+1217,Good,28.09791262,Medium,Less than 5,College,None or 1
+1218,Good,36.23149041,High,5 or more,College,More than 2
+1219,Good,33.23962875,High,5 or more,High school,None or 1
+1220,Good,33.44339212,Medium,5 or more,High school,More than 2
+1221,Good,27.78698451,High,Less than 5,College,None or 1
+1222,Good,27.90201951,Medium,5 or more,College,More than 2
+1223,Good,38.41256253,Medium,Less than 5,High school,None or 1
+1224,Good,31.14505885,High,5 or more,High school,More than 2
+1225,Good,53.14445775,High,5 or more,College,More than 2
+1226,Good,33.93907125,High,Less than 5,College,None or 1
+1227,Good,44.77468085,Medium,Less than 5,College,None or 1
+1228,Good,29.92242681,High,5 or more,High school,None or 1
+1229,Good,20.61493392,High,5 or more,College,More than 2
+1230,Good,29.29771437,High,Less than 5,High school,None or 1
+1231,Good,39.48234829,High,Less than 5,College,None or 1
+1232,Good,39.06784017,Medium,Less than 5,High school,None or 1
+1233,Good,48.65118549,High,Less than 5,College,None or 1
+1234,Good,41.6387145,Medium,Less than 5,High school,None or 1
+1235,Good,31.96049508,Medium,Less than 5,College,None or 1
+1236,Good,42.34837429,High,Less than 5,College,None or 1
+1237,Good,47.83323489,High,Less than 5,High school,None or 1
+1238,Good,34.16673648,High,5 or more,High school,More than 2
+1239,Good,42.34199382,Medium,Less than 5,College,None or 1
+1240,Good,26.37166864,High,Less than 5,High school,None or 1
+1241,Good,30.95767127,High,Less than 5,High school,None or 1
+1242,Good,33.52156254,High,5 or more,High school,More than 2
+1243,Good,28.27730948,High,Less than 5,High school,None or 1
+1244,Good,35.76018332,Medium,Less than 5,College,None or 1
+1245,Good,52.59117498,High,5 or more,High school,None or 1
+1246,Good,43.01539786,Medium,Less than 5,College,None or 1
+1247,Good,38.58413948,High,5 or more,High school,More than 2
+1248,Good,29.34221831,Medium,Less than 5,College,None or 1
+1249,Good,46.65286188,High,Less than 5,High school,None or 1
+1250,Good,31.58844201,Low,5 or more,High school,None or 1
+1251,Good,26.14520449,Low,Less than 5,College,None or 1
+1252,Good,46.21329822,High,5 or more,High school,More than 2
+1253,Good,40.59298711,Medium,5 or more,College,More than 2
+1254,Good,45.87542041,High,5 or more,College,More than 2
+1255,Good,26.19959215,High,5 or more,High school,More than 2
+1256,Good,57.42851971,High,5 or more,High school,More than 2
+1257,Good,52.36125226,Medium,Less than 5,College,None or 1
+1258,Good,43.44749641,Low,5 or more,College,More than 2
+1259,Good,46.33436587,High,Less than 5,College,None or 1
+1260,Good,22.92020673,High,Less than 5,High school,None or 1
+1261,Good,24.47556367,High,Less than 5,College,None or 1
+1262,Good,24.79491754,High,Less than 5,High school,None or 1
+1263,Good,35.13289652,Medium,Less than 5,High school,None or 1
+1264,Good,40.71652324,Low,5 or more,College,More than 2
+1265,Good,44.19593542,High,Less than 5,High school,None or 1
+1266,Good,41.17779614,Medium,5 or more,High school,More than 2
+1267,Good,34.1228468,High,Less than 5,High school,More than 2
+1268,Good,44.76774558,Low,Less than 5,High school,None or 1
+1269,Good,35.84598811,High,5 or more,High school,More than 2
+1270,Good,20.13398566,Medium,Less than 5,College,None or 1
+1271,Good,42.74417321,High,5 or more,High school,More than 2
+1272,Good,29.78492958,Medium,5 or more,College,More than 2
+1273,Good,21.29249606,Low,Less than 5,College,None or 1
+1274,Good,47.05430272,Medium,Less than 5,High school,None or 1
+1275,Good,27.92839461,Medium,Less than 5,College,More than 2
+1276,Good,46.18750315,Low,Less than 5,High school,None or 1
+1277,Good,43.03480642,High,Less than 5,College,None or 1
+1278,Good,33.44886941,Medium,5 or more,High school,More than 2
+1279,Good,24.84524044,High,Less than 5,High school,None or 1
+1280,Good,32.65788182,High,5 or more,High school,More than 2
+1281,Good,34.91224274,Medium,Less than 5,High school,More than 2
+1282,Good,51.0480943,High,5 or more,High school,More than 2
+1283,Good,35.25789782,High,5 or more,College,More than 2
+1284,Good,24.24107941,Medium,Less than 5,High school,More than 2
+1285,Good,47.08014173,High,5 or more,College,More than 2
+1286,Good,29.0903195,High,5 or more,High school,More than 2
+1287,Good,39.38548241,High,5 or more,High school,More than 2
+1288,Good,37.41040563,High,5 or more,High school,None or 1
+1289,Good,25.70549634,Medium,Less than 5,High school,None or 1
+1290,Good,39.00830487,Low,Less than 5,High school,None or 1
+1291,Good,39.97792714,High,5 or more,High school,More than 2
+1292,Good,33.11213024,Medium,Less than 5,High school,More than 2
+1293,Good,43.86386072,High,Less than 5,College,None or 1
+1294,Good,46.28574235,Medium,5 or more,High school,None or 1
+1295,Good,47.28159723,High,5 or more,College,More than 2
+1296,Good,48.29542894,High,5 or more,High school,More than 2
+1297,Good,31.93909991,Medium,Less than 5,College,More than 2
+1298,Good,31.92112678,High,Less than 5,College,More than 2
+1299,Good,39.35473245,High,5 or more,College,More than 2
+1300,Good,44.48817333,High,Less than 5,High school,None or 1
+1301,Good,29.87686228,Medium,Less than 5,College,None or 1
+1302,Good,34.82008131,Medium,Less than 5,High school,None or 1
+1303,Good,33.84385664,High,5 or more,High school,More than 2
+1304,Good,40.83457716,Medium,Less than 5,College,None or 1
+1305,Good,36.81187484,High,5 or more,High school,More than 2
+1306,Good,33.71230643,Medium,5 or more,College,None or 1
+1307,Good,28.72227851,Medium,Less than 5,College,More than 2
+1308,Good,44.64972023,High,5 or more,College,More than 2
+1309,Good,26.77183987,High,5 or more,High school,More than 2
+1310,Good,49.21357523,High,5 or more,College,More than 2
+1311,Good,32.59119182,Medium,Less than 5,College,More than 2
+1312,Good,32.8349274,High,Less than 5,High school,None or 1
+1313,Good,24.13162621,Medium,5 or more,High school,More than 2
+1314,Good,39.41157774,High,5 or more,High school,More than 2
+1315,Good,49.06772274,High,5 or more,College,More than 2
+1316,Good,44.88224328,Medium,5 or more,College,More than 2
+1317,Good,44.87677628,Medium,Less than 5,College,None or 1
+1318,Good,49.35248365,Medium,5 or more,High school,More than 2
+1319,Good,31.15802848,Medium,Less than 5,College,None or 1
+1320,Good,30.68701892,Medium,5 or more,High school,None or 1
+1321,Good,45.52199587,High,5 or more,High school,More than 2
+1322,Good,42.08731754,Low,Less than 5,High school,None or 1
+1323,Good,30.4647019,High,5 or more,College,More than 2
+1324,Good,40.27620068,Medium,5 or more,College,More than 2
+1325,Good,27.8797884,Medium,Less than 5,High school,None or 1
+1326,Good,48.68789565,High,5 or more,High school,More than 2
+1327,Good,36.11062817,High,5 or more,High school,None or 1
+1328,Good,40.96344429,Medium,Less than 5,College,None or 1
+1329,Good,36.02300605,Medium,5 or more,College,More than 2
+1330,Good,47.7916561,High,Less than 5,College,None or 1
+1331,Good,48.77672755,Medium,5 or more,College,More than 2
+1332,Good,47.77602254,Medium,5 or more,College,More than 2
+1333,Good,47.275069,Medium,Less than 5,College,None or 1
+1334,Good,40.78391674,High,5 or more,High school,None or 1
+1335,Good,48.6315099,High,5 or more,College,More than 2
+1336,Good,23.9013577,Medium,5 or more,High school,More than 2
+1337,Good,30.90767073,High,Less than 5,College,None or 1
+1338,Good,40.66003581,High,Less than 5,College,None or 1
+1339,Good,44.89865188,Medium,5 or more,High school,More than 2
+1340,Good,45.02415186,Medium,Less than 5,High school,More than 2
+1341,Good,35.9978576,Medium,5 or more,College,More than 2
+1342,Good,29.90714964,Low,Less than 5,College,None or 1
+1343,Good,47.76328953,High,5 or more,High school,More than 2
+1344,Good,28.19033131,High,Less than 5,High school,None or 1
+1345,Good,34.37649703,Medium,5 or more,High school,More than 2
+1346,Good,38.24488459,High,5 or more,High school,None or 1
+1347,Good,35.78167463,Medium,Less than 5,College,None or 1
+1348,Good,30.882045,Medium,5 or more,High school,More than 2
+1349,Good,43.91976683,High,5 or more,High school,More than 2
+1350,Good,26.69938027,Medium,Less than 5,College,None or 1
+1351,Good,38.90413592,Medium,5 or more,College,More than 2
+1352,Good,38.67941467,High,Less than 5,College,More than 2
+1353,Good,50.71263165,Medium,5 or more,High school,More than 2
+1354,Good,38.73022883,High,Less than 5,College,None or 1
+1355,Good,44.24905862,Medium,Less than 5,College,None or 1
+1356,Good,22.45567523,High,Less than 5,College,None or 1
+1357,Good,31.01905962,High,5 or more,High school,None or 1
+1358,Good,31.98798036,High,5 or more,High school,More than 2
+1359,Good,28.92439056,High,5 or more,College,More than 2
+1360,Good,22.48702936,Low,Less than 5,College,None or 1
+1361,Good,24.76419346,Medium,Less than 5,College,None or 1
+1362,Good,50.41559453,Medium,Less than 5,High school,None or 1
+1363,Good,35.91197905,Medium,5 or more,College,More than 2
+1364,Good,49.91548624,Medium,Less than 5,High school,None or 1
+1365,Good,44.99373296,High,5 or more,College,More than 2
+1366,Good,27.46604609,High,5 or more,College,More than 2
+1367,Good,28.08753902,High,Less than 5,College,None or 1
+1368,Good,24.96266837,High,5 or more,College,More than 2
+1369,Good,48.49038016,High,5 or more,High school,More than 2
+1370,Good,43.22459372,High,5 or more,College,More than 2
+1371,Good,38.814032,Medium,Less than 5,College,None or 1
+1372,Good,35.93171949,High,5 or more,High school,More than 2
+1373,Good,40.80809057,High,5 or more,High school,More than 2
+1374,Good,37.01808472,High,Less than 5,High school,None or 1
+1375,Good,41.49724205,High,Less than 5,College,None or 1
+1376,Good,35.46515319,Medium,5 or more,College,None or 1
+1377,Good,34.82300382,Medium,Less than 5,College,None or 1
+1378,Good,25.10055532,Medium,5 or more,High school,More than 2
+1379,Good,44.8428613,High,5 or more,High school,More than 2
+1380,Good,24.72528108,High,5 or more,High school,More than 2
+1381,Good,45.4129657,High,Less than 5,College,None or 1
+1382,Good,38.73956016,High,5 or more,High school,More than 2
+1383,Good,25.20844539,Medium,Less than 5,High school,None or 1
+1384,Good,33.57954196,High,Less than 5,College,More than 2
+1385,Good,43.26421252,Medium,5 or more,College,More than 2
+1386,Good,27.31059608,High,5 or more,High school,More than 2
+1387,Good,47.96456702,Medium,5 or more,High school,More than 2
+1388,Good,38.41512786,High,5 or more,High school,More than 2
+1389,Good,30.60518085,High,Less than 5,High school,None or 1
+1390,Good,43.92230088,Medium,5 or more,College,More than 2
+1391,Good,44.44210507,Medium,5 or more,College,More than 2
+1392,Good,38.37491959,Medium,Less than 5,College,None or 1
+1393,Good,46.48064883,Low,Less than 5,College,None or 1
+1394,Good,38.42550693,High,Less than 5,College,None or 1
+1395,Good,35.88809759,Medium,5 or more,College,More than 2
+1396,Good,28.17464691,Medium,Less than 5,High school,None or 1
+1397,Good,20.85105911,Medium,5 or more,College,More than 2
+1398,Good,34.56289998,High,5 or more,High school,More than 2
+1399,Good,41.70110224,Low,5 or more,College,None or 1
+1400,Good,41.26423011,Medium,5 or more,College,More than 2
+1401,Good,47.73102773,Medium,5 or more,College,None or 1
+1402,Good,38.31075237,Medium,5 or more,College,More than 2
+1403,Good,39.64933491,High,5 or more,High school,More than 2
+1404,Good,39.85800487,Medium,5 or more,High school,None or 1
+1405,Good,50.04261206,Medium,Less than 5,College,None or 1
+1406,Good,32.0978803,Medium,5 or more,College,None or 1
+1407,Good,22.8018799,Medium,Less than 5,College,More than 2
+1408,Good,42.00167631,High,5 or more,College,More than 2
+1409,Good,26.34194366,Medium,5 or more,High school,More than 2
+1410,Good,47.54639699,High,5 or more,College,None or 1
+1411,Good,40.81425993,Medium,5 or more,High school,More than 2
+1412,Good,34.64657475,Medium,5 or more,College,More than 2
+1413,Good,43.26028975,Medium,Less than 5,College,None or 1
+1414,Good,29.70038828,Medium,Less than 5,College,None or 1
+1415,Good,22.31562045,High,5 or more,High school,More than 2
+1416,Good,29.77323671,High,5 or more,High school,More than 2
+1417,Good,43.86504433,Low,5 or more,College,More than 2
+1418,Good,39.23936018,Medium,Less than 5,College,None or 1
+1419,Good,28.65139223,Medium,5 or more,High school,More than 2
+1420,Good,50.66998505,Medium,5 or more,High school,More than 2
+1421,Good,37.67152717,High,Less than 5,College,None or 1
+1422,Good,42.42569566,High,Less than 5,College,None or 1
+1423,Good,32.79072038,High,Less than 5,College,None or 1
+1424,Good,35.44663927,High,Less than 5,High school,None or 1
+1425,Good,26.99755004,Low,Less than 5,High school,None or 1
+1426,Good,32.9718474,Medium,Less than 5,College,None or 1
+1427,Good,31.90238791,High,Less than 5,College,None or 1
+1428,Good,45.84171594,High,5 or more,College,More than 2
+1429,Good,34.51389944,Medium,5 or more,High school,None or 1
+1430,Good,47.58538225,High,Less than 5,High school,None or 1
+1431,Good,45.26926213,Medium,5 or more,College,More than 2
+1432,Good,26.15533347,Medium,Less than 5,College,None or 1
+1433,Good,27.46510714,High,Less than 5,College,None or 1
+1434,Good,28.40331021,High,5 or more,High school,More than 2
+1435,Good,38.66034586,Medium,5 or more,College,More than 2
+1436,Good,30.24313464,High,5 or more,High school,More than 2
+1437,Good,35.86132613,High,5 or more,College,More than 2
+1438,Good,49.7903455,High,5 or more,High school,More than 2
+1439,Good,38.38155772,Medium,Less than 5,High school,None or 1
+1440,Good,33.32023627,High,5 or more,College,More than 2
+1441,Good,46.62378093,High,5 or more,College,More than 2
+1442,Good,32.87538584,High,Less than 5,College,None or 1
+1443,Good,47.39385775,High,5 or more,College,More than 2
+1444,Good,22.77539714,Low,5 or more,College,More than 2
+1445,Good,32.14330051,Low,Less than 5,College,None or 1
+1446,Good,35.00552617,Medium,5 or more,High school,More than 2
+1447,Good,46.66661125,Low,Less than 5,High school,None or 1
+1448,Good,25.6126831,High,5 or more,College,More than 2
+1449,Good,31.17420039,Medium,5 or more,College,More than 2
+1450,Good,28.4980227,Medium,5 or more,High school,None or 1
+1451,Good,34.30379957,Medium,Less than 5,College,None or 1
+1452,Good,48.04603668,Medium,5 or more,College,More than 2
+1453,Good,33.33086199,High,5 or more,College,More than 2
+1454,Good,27.92319914,Medium,5 or more,High school,More than 2
+1455,Good,33.2041225,Medium,5 or more,College,More than 2
+1456,Good,40.40878577,Medium,Less than 5,College,None or 1
+1457,Good,27.78176161,High,Less than 5,High school,None or 1
+1458,Good,33.1075117,Medium,Less than 5,High school,More than 2
+1459,Good,55.93382544,High,Less than 5,High school,More than 2
+1460,Good,27.92282916,Medium,5 or more,High school,More than 2
+1461,Good,49.67721338,Medium,5 or more,College,More than 2
+1462,Good,27.95526093,Medium,5 or more,High school,More than 2
+1463,Good,21.75159839,High,5 or more,High school,More than 2
+1464,Good,21.97825192,High,5 or more,College,More than 2
+1465,Good,26.82886554,High,Less than 5,High school,None or 1
+1466,Good,34.75141045,Medium,Less than 5,High school,None or 1
+1467,Good,33.1316899,Medium,5 or more,High school,More than 2
+1468,Good,30.90309067,High,5 or more,College,More than 2
+1469,Good,46.13521098,High,Less than 5,High school,None or 1
+1470,Good,31.28181493,Medium,5 or more,College,More than 2
+1471,Good,42.98678074,High,5 or more,College,More than 2
+1472,Good,37.02450247,High,Less than 5,College,None or 1
+1473,Good,27.26688343,Medium,5 or more,College,None or 1
+1474,Good,22.42269087,Low,Less than 5,High school,None or 1
+1475,Good,50.37895432,High,5 or more,High school,More than 2
+1476,Good,28.69091525,Medium,5 or more,High school,More than 2
+1477,Good,21.78741313,High,Less than 5,High school,None or 1
+1478,Good,39.00172051,Medium,5 or more,College,More than 2
+1479,Good,21.19092791,Medium,5 or more,College,More than 2
+1480,Good,25.53380837,High,5 or more,High school,None or 1
+1481,Good,33.17944939,High,5 or more,College,More than 2
+1482,Good,46.35824744,Medium,Less than 5,College,None or 1
+1483,Good,53.70338023,Medium,5 or more,College,More than 2
+1484,Good,29.61595547,Medium,5 or more,High school,More than 2
+1485,Good,41.6505146,High,5 or more,High school,More than 2
+1486,Good,30.88634336,Medium,Less than 5,High school,None or 1
+1487,Good,39.27277675,Medium,5 or more,High school,More than 2
+1488,Good,20.32676665,High,5 or more,College,More than 2
+1489,Good,59.77652295,High,5 or more,College,More than 2
+1490,Good,28.9987097,High,Less than 5,High school,None or 1
+1491,Good,33.69614892,High,5 or more,High school,More than 2
+1492,Good,21.90168167,Medium,5 or more,College,More than 2
+1493,Good,53.36706094,High,Less than 5,High school,None or 1
+1494,Good,49.46841625,High,Less than 5,College,None or 1
+1495,Good,41.86583062,Medium,Less than 5,College,None or 1
+1496,Good,35.8604722,Medium,Less than 5,College,None or 1
+1497,Good,33.27467353,Medium,Less than 5,College,None or 1
+1498,Good,26.12266957,Medium,5 or more,High school,More than 2
+1499,Good,20.72122849,Medium,5 or more,High school,More than 2
+1500,Good,45.77238316,Medium,5 or more,High school,More than 2
+1501,Good,53.75484664,High,5 or more,High school,More than 2
+1502,Good,43.55465888,Medium,5 or more,College,None or 1
+1503,Good,32.07292372,High,Less than 5,College,More than 2
+1504,Good,33.75867966,Medium,Less than 5,High school,More than 2
+1505,Good,26.89286612,Medium,Less than 5,High school,None or 1
+1506,Good,39.25883086,Medium,Less than 5,College,None or 1
+1507,Good,57.39400524,High,5 or more,College,More than 2
+1508,Good,29.0259396,Medium,5 or more,College,More than 2
+1509,Good,50.24091476,Medium,Less than 5,College,None or 1
+1510,Good,57.09630219,High,5 or more,High school,None or 1
+1511,Good,47.29684389,Low,5 or more,High school,More than 2
+1512,Good,62.45123057,Medium,5 or more,High school,None or 1
+1513,Good,39.69165411,Medium,5 or more,College,More than 2
+1514,Good,42.83703844,High,5 or more,College,More than 2
+1515,Good,35.69932787,Medium,5 or more,College,None or 1
+1516,Good,25.09671619,High,Less than 5,High school,None or 1
+1517,Good,39.61181823,Medium,5 or more,College,More than 2
+1518,Good,39.30375075,High,Less than 5,College,None or 1
+1519,Good,46.99203121,High,Less than 5,High school,None or 1
+1520,Good,25.8399419,Medium,5 or more,College,More than 2
+1521,Good,40.2551915,Medium,5 or more,High school,More than 2
+1522,Good,37.69935895,Medium,5 or more,High school,More than 2
+1523,Good,38.2551415,Medium,Less than 5,High school,None or 1
+1524,Good,36.30782661,Medium,5 or more,College,More than 2
+1525,Good,44.53650309,High,5 or more,College,More than 2
+1526,Good,47.47078656,High,5 or more,High school,More than 2
+1527,Good,28.44405677,High,Less than 5,College,None or 1
+1528,Good,42.8722876,High,Less than 5,College,None or 1
+1529,Good,43.60282327,Medium,5 or more,High school,More than 2
+1530,Good,37.52101663,High,5 or more,College,More than 2
+1531,Good,38.2597639,High,Less than 5,High school,None or 1
+1532,Good,27.43539683,High,5 or more,High school,More than 2
+1533,Good,25.5744033,High,5 or more,College,More than 2
+1534,Good,38.60290189,High,Less than 5,College,None or 1
+1535,Good,31.91142334,High,5 or more,College,More than 2
+1536,Good,33.54694975,High,Less than 5,College,None or 1
+1537,Good,33.50341821,High,Less than 5,College,None or 1
+1538,Good,31.50018865,High,Less than 5,College,None or 1
+1539,Good,30.39644283,High,5 or more,College,More than 2
+1540,Good,23.9082559,High,5 or more,High school,More than 2
+1541,Good,24.9501308,Medium,Less than 5,High school,More than 2
+1542,Good,38.32225116,High,5 or more,College,More than 2
+1543,Good,41.05942784,High,5 or more,High school,More than 2
+1544,Good,37.9710447,Medium,Less than 5,College,None or 1
+1545,Good,41.88463806,Medium,Less than 5,High school,None or 1
+1546,Good,28.08069543,Medium,Less than 5,High school,None or 1
+1547,Good,33.03716078,High,Less than 5,College,More than 2
+1548,Good,41.31254833,High,Less than 5,College,None or 1
+1549,Good,38.87352253,High,5 or more,High school,More than 2
+1550,Good,41.69354226,High,5 or more,College,None or 1
+1551,Good,46.11235055,High,5 or more,College,More than 2
+1552,Good,31.41317895,High,Less than 5,High school,None or 1
+1553,Good,40.6117217,High,5 or more,High school,More than 2
+1554,Good,23.90080304,Medium,Less than 5,High school,None or 1
+1555,Good,30.10755493,Medium,5 or more,College,More than 2
+1556,Good,27.41871587,Medium,Less than 5,High school,More than 2
+1557,Good,20.88301561,Medium,5 or more,College,More than 2
+1558,Good,34.05508874,Medium,Less than 5,High school,None or 1
+1559,Good,39.41000178,High,Less than 5,High school,None or 1
+1560,Good,29.42016378,High,Less than 5,High school,None or 1
+1561,Good,28.8306801,High,Less than 5,College,None or 1
+1562,Good,39.82112431,Medium,5 or more,High school,More than 2
+1563,Good,35.39234871,Medium,Less than 5,College,None or 1
+1564,Good,30.86493414,Medium,5 or more,High school,More than 2
+1565,Good,39.98894492,Medium,Less than 5,College,More than 2
+1566,Good,27.97225973,High,Less than 5,College,None or 1
+1567,Good,47.97329221,Medium,5 or more,College,More than 2
+1568,Good,38.07934097,High,Less than 5,College,More than 2
+1569,Good,31.20049214,Medium,Less than 5,College,None or 1
+1570,Good,25.2706903,High,Less than 5,High school,None or 1
+1571,Good,27.76333644,Medium,Less than 5,High school,None or 1
+1572,Good,35.37688109,Medium,5 or more,College,More than 2
+1573,Good,34.65481712,High,Less than 5,High school,None or 1
+1574,Good,40.06881378,Medium,Less than 5,College,None or 1
+1575,Good,31.8291835,High,5 or more,High school,More than 2
+1576,Good,36.28896098,Medium,Less than 5,High school,None or 1
+1577,Good,37.735304,High,Less than 5,High school,None or 1
+1578,Good,46.41457877,Medium,Less than 5,College,None or 1
+1579,Good,42.08136353,Medium,Less than 5,High school,None or 1
+1580,Good,37.22635676,Medium,5 or more,College,More than 2
+1581,Good,36.6189481,Medium,5 or more,High school,None or 1
+1582,Good,49.58089642,Medium,Less than 5,High school,None or 1
+1583,Good,32.5683627,Medium,5 or more,College,More than 2
+1584,Good,25.89417578,Medium,5 or more,High school,More than 2
+1585,Good,30.41480601,Low,5 or more,College,None or 1
+1586,Good,32.30734012,High,Less than 5,College,None or 1
+1587,Good,33.21151764,Medium,Less than 5,High school,None or 1
+1588,Good,42.09264307,Medium,Less than 5,College,None or 1
+1589,Good,33.4578938,Medium,5 or more,College,More than 2
+1590,Good,25.18878561,High,5 or more,High school,More than 2
+1591,Good,35.96165745,Medium,5 or more,College,More than 2
+1592,Good,23.65885197,Medium,5 or more,High school,More than 2
+1593,Good,34.35041486,Medium,5 or more,College,More than 2
+1594,Good,45.27150225,Medium,5 or more,High school,None or 1
+1595,Good,33.30604022,High,Less than 5,College,None or 1
+1596,Good,31.28645344,High,5 or more,High school,More than 2
+1597,Good,33.34299824,Medium,5 or more,High school,More than 2
+1598,Good,42.18087696,High,5 or more,High school,None or 1
+1599,Good,47.18935838,High,Less than 5,College,None or 1
+1600,Good,39.92876549,High,5 or more,College,More than 2
+1601,Good,39.48248873,Medium,Less than 5,High school,None or 1
+1602,Good,41.59571388,Medium,5 or more,College,More than 2
+1603,Good,32.16699683,High,Less than 5,High school,None or 1
+1604,Good,34.09266934,Medium,5 or more,College,More than 2
+1605,Good,38.7395999,High,5 or more,College,More than 2
+1606,Good,36.03496806,Medium,Less than 5,College,None or 1
+1607,Good,45.83187009,High,5 or more,College,More than 2
+1608,Good,28.5675623,High,Less than 5,College,None or 1
+1609,Good,40.45083754,High,5 or more,High school,More than 2
+1610,Good,32.2302366,High,5 or more,High school,More than 2
+1611,Good,25.77134842,Medium,Less than 5,High school,None or 1
+1612,Good,20.65323699,High,Less than 5,High school,None or 1
+1613,Good,43.74262083,High,Less than 5,High school,None or 1
+1614,Good,30.89131548,Medium,Less than 5,College,None or 1
+1615,Good,26.77055285,High,5 or more,College,More than 2
+1616,Good,45.16981488,Medium,Less than 5,High school,None or 1
+1617,Good,38.38356809,High,Less than 5,High school,None or 1
+1618,Good,48.19828955,Medium,5 or more,High school,More than 2
+1619,Good,29.71347181,High,5 or more,High school,More than 2
+1620,Good,41.66407333,Medium,Less than 5,High school,None or 1
+1621,Good,29.80558751,High,Less than 5,High school,None or 1
+1622,Good,45.5700711,Medium,5 or more,College,More than 2
+1623,Good,37.13481911,High,5 or more,College,More than 2
+1624,Good,32.50193506,High,Less than 5,College,More than 2
+1625,Good,30.34701656,High,5 or more,College,More than 2
+1626,Good,41.90984979,Medium,5 or more,High school,None or 1
+1627,Good,37.06462876,Medium,Less than 5,High school,None or 1
+1628,Good,28.40880251,Medium,5 or more,High school,None or 1
+1629,Good,24.16613486,Medium,5 or more,High school,More than 2
+1630,Good,32.3016471,High,Less than 5,High school,None or 1
+1631,Good,35.86050565,Medium,5 or more,College,More than 2
+1632,Good,24.20051598,Medium,Less than 5,High school,More than 2
+1633,Good,39.31615319,High,5 or more,High school,More than 2
+1634,Good,37.18847629,Medium,Less than 5,High school,None or 1
+1635,Good,46.51586885,Medium,Less than 5,College,More than 2
+1636,Good,34.29083337,High,Less than 5,College,None or 1
+1637,Good,27.20992841,Medium,5 or more,College,More than 2
+1638,Good,39.22347113,Low,Less than 5,College,None or 1
+1639,Good,32.82488395,Medium,Less than 5,College,None or 1
+1640,Good,22.77102416,High,5 or more,College,None or 1
+1641,Good,42.34561669,Medium,5 or more,High school,More than 2
+1642,Good,53.41723302,High,5 or more,High school,More than 2
+1643,Good,46.01793466,Low,Less than 5,College,None or 1
+1644,Good,23.04992905,High,Less than 5,High school,None or 1
+1645,Good,44.46323174,Medium,Less than 5,High school,None or 1
+1646,Good,24.31198532,High,5 or more,College,None or 1
+1647,Good,42.79927587,High,5 or more,High school,More than 2
+1648,Good,53.66602201,Low,Less than 5,College,None or 1
+1649,Good,43.12799696,High,Less than 5,High school,None or 1
+1650,Good,34.89437567,Low,Less than 5,College,None or 1
+1651,Good,42.38511806,Low,5 or more,College,More than 2
+1652,Good,41.51140853,High,5 or more,College,More than 2
+1653,Good,34.81272097,Medium,5 or more,High school,More than 2
+1654,Good,25.71170908,High,5 or more,College,None or 1
+1655,Good,33.68702314,Medium,Less than 5,High school,None or 1
+1656,Good,32.19230115,High,Less than 5,High school,None or 1
+1657,Good,51.65613258,Medium,5 or more,College,More than 2
+1658,Good,37.89088958,Medium,Less than 5,High school,None or 1
+1659,Good,34.21330883,High,5 or more,High school,More than 2
+1660,Good,47.75195312,High,5 or more,College,None or 1
+1661,Good,27.72467976,Low,5 or more,College,More than 2
+1662,Good,28.01099347,High,5 or more,College,More than 2
+1663,Good,25.93282223,Medium,Less than 5,High school,None or 1
+1664,Good,44.34253422,High,Less than 5,High school,None or 1
+1665,Good,29.21671796,Medium,5 or more,High school,More than 2
+1666,Good,31.80181333,High,Less than 5,High school,None or 1
+1667,Good,23.80878707,Medium,5 or more,High school,More than 2
+1668,Good,29.08098618,High,Less than 5,College,None or 1
+1669,Good,37.97990875,High,Less than 5,High school,None or 1
+1670,Good,30.99008374,High,Less than 5,College,None or 1
+1671,Good,52.69126065,Medium,5 or more,High school,More than 2
+1672,Good,25.31498492,Medium,5 or more,High school,More than 2
+1673,Good,26.0311078,High,5 or more,High school,None or 1
+1674,Good,23.69455253,High,5 or more,College,More than 2
+1675,Good,25.83038095,High,5 or more,High school,More than 2
+1676,Good,23.62136683,Medium,Less than 5,College,None or 1
+1677,Good,31.81647326,Medium,Less than 5,College,None or 1
+1678,Good,40.44382206,High,5 or more,College,More than 2
+1679,Good,23.11989151,High,Less than 5,College,None or 1
+1680,Good,26.89328504,High,Less than 5,High school,None or 1
+1681,Good,38.72900495,High,Less than 5,High school,None or 1
+1682,Good,32.33743765,Medium,5 or more,College,More than 2
+1683,Good,42.19125403,Medium,Less than 5,High school,None or 1
+1684,Good,41.94314687,Medium,Less than 5,High school,None or 1
+1685,Good,31.33507373,Medium,5 or more,High school,More than 2
+1686,Good,36.42147586,High,Less than 5,High school,None or 1
+1687,Good,43.0040426,High,5 or more,College,None or 1
+1688,Good,53.21188012,High,Less than 5,High school,None or 1
+1689,Good,48.83351196,Medium,5 or more,College,More than 2
+1690,Good,33.18518662,Medium,5 or more,High school,More than 2
+1691,Good,27.12014326,Medium,Less than 5,College,None or 1
+1692,Good,36.55376157,High,5 or more,High school,More than 2
+1693,Good,28.77800174,Medium,Less than 5,High school,None or 1
+1694,Good,60.79575187,High,Less than 5,High school,None or 1
+1695,Good,44.5024216,Medium,5 or more,College,More than 2
+1696,Good,40.97779938,High,Less than 5,College,None or 1
+1697,Good,31.08322453,Medium,Less than 5,College,None or 1
+1698,Good,43.07024026,Medium,5 or more,High school,More than 2
+1699,Good,41.30306047,High,Less than 5,High school,None or 1
+1700,Good,38.47033571,High,5 or more,High school,More than 2
+1701,Good,28.57257336,Low,5 or more,College,More than 2
+1702,Good,34.67861533,Medium,Less than 5,College,None or 1
+1703,Good,29.58298135,Medium,Less than 5,High school,None or 1
+1704,Good,35.52291543,Medium,5 or more,College,More than 2
+1705,Good,43.51741005,Medium,5 or more,High school,More than 2
+1706,Good,31.27930305,High,Less than 5,College,None or 1
+1707,Good,27.88147592,Medium,5 or more,High school,More than 2
+1708,Good,22.73153492,High,Less than 5,High school,None or 1
+1709,Good,42.50437151,Medium,5 or more,High school,None or 1
+1710,Good,34.86150783,Medium,5 or more,High school,More than 2
+1711,Good,49.69991137,High,Less than 5,High school,None or 1
+1712,Good,41.43354837,Medium,Less than 5,High school,None or 1
+1713,Good,43.5165463,Medium,5 or more,High school,More than 2
+1714,Good,40.11855826,High,5 or more,High school,More than 2
+1715,Good,29.59668427,Medium,5 or more,High school,None or 1
+1716,Good,43.04138584,High,Less than 5,College,None or 1
+1717,Good,39.14617865,Medium,5 or more,High school,More than 2
+1718,Good,37.49213338,Low,5 or more,College,More than 2
+1719,Good,40.97349739,High,5 or more,High school,More than 2
+1720,Good,34.31496206,Medium,Less than 5,College,None or 1
+1721,Good,42.70652623,High,5 or more,College,More than 2
+1722,Good,40.13028361,High,5 or more,College,More than 2
+1723,Good,49.72245732,Medium,5 or more,College,More than 2
+1724,Good,40.93032619,Medium,Less than 5,College,None or 1
+1725,Good,45.48382397,High,Less than 5,High school,None or 1
+1726,Good,21.68188096,High,Less than 5,High school,None or 1
+1727,Good,38.42006464,High,Less than 5,College,None or 1
+1728,Good,41.69547307,Medium,5 or more,High school,More than 2
+1729,Good,37.38615899,Low,5 or more,High school,More than 2
+1730,Good,50.51117705,High,5 or more,High school,More than 2
+1731,Good,35.76562074,High,5 or more,High school,More than 2
+1732,Good,43.52982757,Medium,Less than 5,High school,None or 1
+1733,Good,27.76189747,Medium,5 or more,College,More than 2
+1734,Good,34.19815432,High,Less than 5,High school,None or 1
+1735,Good,59.22692154,High,5 or more,High school,More than 2
+1736,Good,32.79102244,Medium,Less than 5,College,None or 1
+1737,Good,36.99623763,Medium,Less than 5,College,None or 1
+1738,Good,36.78824005,High,5 or more,High school,More than 2
+1739,Good,34.17575757,High,5 or more,High school,More than 2
+1740,Good,47.33794191,Low,5 or more,High school,More than 2
+1741,Good,32.82362009,Low,5 or more,High school,More than 2
+1742,Good,32.60358285,Medium,Less than 5,High school,More than 2
+1743,Good,28.07920582,High,5 or more,College,More than 2
+1744,Good,27.47768065,High,5 or more,High school,More than 2
+1745,Good,34.24236539,High,Less than 5,High school,None or 1
+1746,Good,50.17444488,Low,Less than 5,High school,None or 1
+1747,Good,26.58908847,Low,5 or more,College,More than 2
+1748,Good,29.60823672,High,5 or more,College,More than 2
+1749,Good,26.73289916,Medium,5 or more,High school,More than 2
+1750,Good,44.95831186,Medium,Less than 5,College,More than 2
+1751,Good,36.2281448,Low,5 or more,College,More than 2
+1752,Good,27.77325674,Medium,Less than 5,College,None or 1
+1753,Good,23.30688693,Medium,Less than 5,High school,None or 1
+1754,Good,44.86112409,High,5 or more,College,None or 1
+1755,Good,33.30629805,Medium,5 or more,College,More than 2
+1756,Good,29.77840781,High,Less than 5,College,None or 1
+1757,Good,33.52925369,High,5 or more,College,More than 2
+1758,Good,41.39358712,High,Less than 5,High school,More than 2
+1759,Good,22.84254695,High,5 or more,College,More than 2
+1760,Good,24.13060193,Medium,Less than 5,College,None or 1
+1761,Good,25.04578741,High,5 or more,College,More than 2
+1762,Good,20.2182372,Low,Less than 5,High school,None or 1
+1763,Good,45.02682175,High,5 or more,College,None or 1
+1764,Good,28.60561644,High,5 or more,College,More than 2
+1765,Good,28.23320177,Medium,5 or more,College,More than 2
+1766,Good,33.80256527,High,5 or more,College,More than 2
+1767,Good,41.25259446,High,5 or more,High school,More than 2
+1768,Good,43.44410203,Medium,5 or more,College,More than 2
+1769,Good,26.90304041,Medium,Less than 5,College,None or 1
+1770,Good,45.43199554,High,Less than 5,College,None or 1
+1771,Good,47.79725039,Low,Less than 5,High school,None or 1
+1772,Good,42.85165439,Medium,Less than 5,High school,None or 1
+1773,Good,35.75846829,Medium,Less than 5,College,None or 1
+1774,Good,29.16997737,High,5 or more,High school,More than 2
+1775,Good,24.10695519,High,Less than 5,High school,None or 1
+1776,Good,39.11252586,Medium,5 or more,High school,More than 2
+1777,Good,48.908592,High,Less than 5,College,None or 1
+1778,Good,47.86018052,Medium,5 or more,College,More than 2
+1779,Good,42.04136203,Medium,Less than 5,High school,None or 1
+1780,Good,41.99286017,High,5 or more,College,More than 2
+1781,Good,28.63997316,High,5 or more,College,More than 2
+1782,Good,28.55743719,High,5 or more,College,More than 2
+1783,Good,45.55462472,Medium,Less than 5,High school,None or 1
+1784,Good,30.78480476,High,5 or more,College,More than 2
+1785,Good,28.19354045,High,5 or more,College,More than 2
+1786,Good,32.83146344,High,5 or more,College,More than 2
+1787,Good,40.62349234,High,5 or more,College,More than 2
+1788,Good,25.00902536,Medium,Less than 5,College,None or 1
+1789,Good,34.97192252,High,Less than 5,High school,None or 1
+1790,Good,30.86491584,Medium,5 or more,College,More than 2
+1791,Good,43.0861238,High,Less than 5,College,None or 1
+1792,Good,38.97616229,Medium,Less than 5,College,None or 1
+1793,Good,21.92384713,High,Less than 5,High school,None or 1
+1794,Good,29.28110153,Medium,5 or more,College,More than 2
+1795,Good,44.1127535,High,Less than 5,High school,More than 2
+1796,Good,26.07377666,High,5 or more,High school,More than 2
+1797,Good,39.69587412,Medium,Less than 5,High school,None or 1
+1798,Good,30.62786416,High,5 or more,High school,More than 2
+1799,Good,42.73031304,Medium,Less than 5,College,None or 1
+1800,Good,35.72338527,Medium,5 or more,College,More than 2
+1801,Good,30.48237255,Medium,5 or more,College,None or 1
+1802,Good,22.51913149,High,5 or more,High school,More than 2
+1803,Good,36.50436844,Medium,5 or more,College,More than 2
+1804,Good,34.42914249,Medium,Less than 5,High school,None or 1
+1805,Good,45.29630056,Medium,Less than 5,High school,None or 1
+1806,Good,39.90640658,Medium,5 or more,High school,More than 2
+1807,Good,35.14188753,Medium,Less than 5,High school,None or 1
+1808,Good,42.96770866,High,Less than 5,High school,None or 1
+1809,Good,58.36072801,Medium,5 or more,College,More than 2
+1810,Good,35.17660674,Medium,5 or more,High school,More than 2
+1811,Good,31.64494896,Medium,5 or more,College,More than 2
+1812,Good,36.90168411,High,5 or more,College,More than 2
+1813,Good,42.82771982,High,5 or more,High school,More than 2
+1814,Good,39.83767114,High,Less than 5,High school,None or 1
+1815,Good,26.27500533,High,Less than 5,High school,None or 1
+1816,Good,34.1110897,Medium,Less than 5,High school,None or 1
+1817,Good,49.11391119,Medium,5 or more,College,More than 2
+1818,Good,50.14402324,High,5 or more,College,None or 1
+1819,Good,27.69885455,High,5 or more,High school,None or 1
+1820,Good,46.02924291,Medium,5 or more,High school,More than 2
+1821,Good,34.95165357,High,5 or more,College,More than 2
+1822,Good,33.1706102,High,Less than 5,College,None or 1
+1823,Good,32.52961697,Medium,Less than 5,High school,None or 1
+1824,Good,23.60083094,Medium,Less than 5,College,More than 2
+1825,Good,33.49726175,High,5 or more,College,More than 2
+1826,Good,37.82880571,Medium,5 or more,College,More than 2
+1827,Good,37.54273276,High,Less than 5,College,None or 1
+1828,Good,21.61076653,High,5 or more,College,More than 2
+1829,Good,28.2978431,High,Less than 5,College,None or 1
+1830,Good,50.40593506,Medium,Less than 5,High school,None or 1
+1831,Good,22.68560082,High,Less than 5,High school,None or 1
+1832,Good,43.30315243,High,Less than 5,College,More than 2
+1833,Good,42.54331385,High,Less than 5,College,None or 1
+1834,Good,32.68913126,High,Less than 5,College,None or 1
+1835,Good,54.58214687,High,Less than 5,High school,None or 1
+1836,Good,21.27609429,Medium,Less than 5,High school,None or 1
+1837,Good,31.95082976,High,Less than 5,College,None or 1
+1838,Good,23.81831131,High,5 or more,High school,More than 2
+1839,Good,28.97501011,Low,Less than 5,College,None or 1
+1840,Good,21.83152329,High,Less than 5,High school,None or 1
+1841,Good,26.75712773,Medium,Less than 5,High school,None or 1
+1842,Good,39.17829331,High,5 or more,College,More than 2
+1843,Good,27.9898721,High,5 or more,High school,More than 2
+1844,Good,33.13447214,Medium,Less than 5,College,More than 2
+1845,Good,48.5027626,High,5 or more,College,More than 2
+1846,Good,41.98261127,High,5 or more,High school,More than 2
+1847,Good,35.13908602,High,Less than 5,High school,None or 1
+1848,Good,45.15613128,High,5 or more,College,More than 2
+1849,Good,32.00537429,Medium,Less than 5,High school,None or 1
+1850,Good,41.591496,High,5 or more,High school,More than 2
+1851,Good,32.79634067,High,Less than 5,High school,None or 1
+1852,Good,46.9359995,Low,5 or more,College,More than 2
+1853,Good,34.4711143,Medium,5 or more,College,More than 2
+1854,Good,26.52001831,Medium,Less than 5,College,None or 1
+1855,Good,38.49739744,High,Less than 5,High school,None or 1
+1856,Good,28.67446441,Medium,Less than 5,High school,None or 1
+1857,Good,49.78949287,Medium,Less than 5,College,None or 1
+1858,Good,45.48692598,Medium,Less than 5,High school,None or 1
+1859,Good,37.57738315,High,Less than 5,College,More than 2
+1860,Good,52.44643561,Medium,Less than 5,High school,None or 1
+1861,Good,30.69056821,Medium,5 or more,High school,More than 2
+1862,Good,31.92061417,High,5 or more,College,More than 2
+1863,Good,23.68047141,High,Less than 5,College,None or 1
+1864,Good,28.68294867,Medium,Less than 5,College,None or 1
+1865,Good,46.94631346,High,5 or more,College,More than 2
+1866,Good,52.77330264,Medium,Less than 5,High school,None or 1
+1867,Good,35.28363281,Medium,Less than 5,High school,None or 1
+1868,Good,38.58535383,High,Less than 5,College,None or 1
+1869,Good,21.5397859,High,Less than 5,High school,None or 1
+1870,Good,28.15896375,Medium,5 or more,College,More than 2
+1871,Good,55.82523797,Medium,Less than 5,High school,None or 1
+1872,Good,39.52352149,High,Less than 5,High school,More than 2
+1873,Good,26.33415869,High,Less than 5,College,None or 1
+1874,Good,41.33198627,High,5 or more,College,More than 2
+1875,Good,28.65704177,High,Less than 5,High school,None or 1
+1876,Good,38.78687975,High,5 or more,High school,More than 2
+1877,Good,30.43707584,High,Less than 5,College,None or 1
+1878,Good,39.20396626,High,5 or more,High school,More than 2
+1879,Good,30.15533292,Medium,Less than 5,High school,None or 1
+1880,Good,53.62271599,Medium,5 or more,College,More than 2
+1881,Good,45.95731738,Medium,Less than 5,High school,None or 1
+1882,Good,40.88794442,Medium,5 or more,High school,More than 2
+1883,Good,45.17303869,High,5 or more,High school,More than 2
+1884,Good,50.87797789,High,5 or more,College,More than 2
+1885,Good,39.96333436,Medium,Less than 5,High school,None or 1
+1886,Good,32.75084001,Medium,5 or more,College,More than 2
+1887,Good,22.7599494,High,Less than 5,High school,None or 1
+1888,Good,24.43768615,Medium,5 or more,High school,More than 2
+1889,Good,33.4543011,Medium,Less than 5,College,None or 1
+1890,Good,32.17115263,Medium,5 or more,High school,More than 2
+1891,Good,39.19454801,High,Less than 5,High school,None or 1
+1892,Good,33.89423067,High,Less than 5,College,None or 1
+1893,Good,28.33025833,High,Less than 5,College,None or 1
+1894,Good,36.5391832,Medium,Less than 5,High school,None or 1
+1895,Good,35.34844264,High,5 or more,College,More than 2
+1896,Good,51.84203721,Medium,Less than 5,High school,None or 1
+1897,Good,24.86294962,High,Less than 5,College,None or 1
+1898,Good,27.54630194,Medium,Less than 5,College,None or 1
+1899,Good,35.56336591,High,5 or more,College,None or 1
+1900,Good,40.21087243,High,5 or more,College,More than 2
+1901,Good,47.22223099,High,5 or more,College,More than 2
+1902,Good,51.07207049,Medium,5 or more,High school,More than 2
+1903,Good,36.09416342,High,Less than 5,High school,None or 1
+1904,Good,31.93275718,Medium,5 or more,High school,More than 2
+1905,Good,35.57543319,Medium,Less than 5,College,None or 1
+1906,Good,39.09387987,Medium,Less than 5,High school,None or 1
+1907,Good,28.48581614,High,5 or more,College,More than 2
+1908,Good,41.06242674,High,Less than 5,High school,None or 1
+1909,Good,39.9868193,High,Less than 5,High school,None or 1
+1910,Good,41.49244174,Medium,5 or more,High school,More than 2
+1911,Good,35.56828523,Medium,Less than 5,College,None or 1
+1912,Good,20.42491887,Low,Less than 5,College,None or 1
+1913,Good,28.54924999,Medium,Less than 5,High school,None or 1
+1914,Good,25.81086387,Medium,Less than 5,High school,None or 1
+1915,Good,24.17151597,Medium,Less than 5,High school,None or 1
+1916,Good,36.17027051,High,Less than 5,High school,None or 1
+1917,Good,27.39070036,High,Less than 5,College,None or 1
+1918,Good,50.45747559,Medium,5 or more,College,More than 2
+1919,Good,47.55776136,High,5 or more,High school,None or 1
+1920,Good,20.46818275,Medium,Less than 5,College,More than 2
+1921,Good,37.8565591,Low,5 or more,College,More than 2
+1922,Good,31.18707767,High,Less than 5,High school,None or 1
+1923,Good,34.63190869,Low,5 or more,High school,More than 2
+1924,Good,53.06553375,High,5 or more,High school,More than 2
+1925,Good,34.17768728,Medium,5 or more,College,More than 2
+1926,Good,39.77981768,High,5 or more,College,None or 1
+1927,Good,36.66853868,High,Less than 5,College,None or 1
+1928,Good,31.17532899,Medium,Less than 5,College,More than 2
+1929,Good,33.4882743,Medium,Less than 5,High school,None or 1
+1930,Good,30.87050473,High,5 or more,College,None or 1
+1931,Good,26.71816595,High,5 or more,College,None or 1
+1932,Good,40.44665347,Medium,Less than 5,College,More than 2
+1933,Good,26.10449984,Low,5 or more,College,More than 2
+1934,Good,36.80435351,Medium,Less than 5,College,None or 1
+1935,Good,40.89720045,Medium,5 or more,College,None or 1
+1936,Good,34.7673484,Low,Less than 5,High school,None or 1
+1937,Good,20.96857095,High,5 or more,College,More than 2
+1938,Good,35.22972993,High,Less than 5,College,None or 1
+1939,Good,29.92034206,Low,5 or more,College,More than 2
+1940,Good,40.90706834,High,5 or more,College,More than 2
+1941,Good,28.01887266,High,5 or more,College,More than 2
+1942,Good,38.88355596,High,Less than 5,High school,None or 1
+1943,Good,28.66969004,High,5 or more,High school,More than 2
+1944,Good,36.09713265,High,5 or more,College,More than 2
+1945,Good,38.010349,High,5 or more,High school,More than 2
+1946,Good,27.70440287,High,Less than 5,High school,None or 1
+1947,Good,34.31873193,Medium,Less than 5,High school,None or 1
+1948,Good,32.93090249,High,Less than 5,High school,None or 1
+1949,Good,28.57699461,Medium,5 or more,High school,More than 2
+1950,Good,20.9774637,Medium,Less than 5,College,None or 1
+1951,Good,32.35241538,Medium,Less than 5,High school,None or 1
+1952,Good,51.33466324,High,Less than 5,College,None or 1
+1953,Good,49.92280176,High,5 or more,High school,More than 2
+1954,Good,45.96759068,High,Less than 5,College,None or 1
+1955,Good,44.46682696,Medium,Less than 5,College,None or 1
+1956,Good,41.36193916,Medium,5 or more,College,None or 1
+1957,Good,38.58287232,High,5 or more,High school,More than 2
+1958,Good,32.29175531,Medium,5 or more,High school,None or 1
+1959,Good,28.06010713,High,Less than 5,High school,None or 1
+1960,Good,46.17567411,Medium,5 or more,High school,More than 2
+1961,Good,39.72101651,High,Less than 5,High school,None or 1
+1962,Good,22.81391766,Medium,5 or more,College,More than 2
+1963,Good,44.8502103,Medium,5 or more,High school,More than 2
+1964,Good,46.98451297,High,5 or more,High school,More than 2
+1965,Good,25.15829488,High,Less than 5,College,None or 1
+1966,Good,52.5664884,Medium,Less than 5,College,None or 1
+1967,Good,32.68621708,High,Less than 5,High school,None or 1
+1968,Good,41.18659531,Low,Less than 5,College,None or 1
+1969,Good,47.68508756,Low,5 or more,High school,More than 2
+1970,Good,20.69779687,High,Less than 5,College,None or 1
+1971,Good,33.2980395,High,Less than 5,College,None or 1
+1972,Good,44.95250558,Medium,5 or more,High school,More than 2
+1973,Good,42.23273113,Medium,Less than 5,College,None or 1
+1974,Good,30.04780867,High,5 or more,High school,More than 2
+1975,Good,30.75896754,Medium,5 or more,College,More than 2
+1976,Good,35.57371456,High,5 or more,High school,More than 2
+1977,Good,33.76343713,Medium,Less than 5,High school,None or 1
+1978,Good,24.2177297,High,5 or more,High school,More than 2
+1979,Good,24.16250342,Low,Less than 5,College,None or 1
+1980,Good,43.97193734,Medium,5 or more,College,More than 2
+1981,Good,35.77373472,High,5 or more,College,More than 2
+1982,Good,38.4296968,Medium,Less than 5,High school,None or 1
+1983,Good,46.88109619,Low,5 or more,High school,None or 1
+1984,Good,34.38332848,Medium,Less than 5,High school,None or 1
+1985,Good,33.18628797,Low,Less than 5,High school,None or 1
+1986,Good,43.8221327,Medium,Less than 5,College,None or 1
+1987,Good,34.10003187,High,Less than 5,High school,None or 1
+1988,Good,36.42389011,Low,5 or more,High school,More than 2
+1989,Good,30.28799836,High,Less than 5,College,None or 1
+1990,Good,25.60360072,Low,5 or more,High school,More than 2
+1991,Good,30.77630805,Low,Less than 5,College,None or 1
+1992,Good,54.12440141,Medium,Less than 5,College,None or 1
+1993,Good,43.74032019,Medium,Less than 5,High school,None or 1
+1994,Good,47.64662963,High,5 or more,High school,More than 2
+1995,Good,27.76095036,Low,5 or more,College,More than 2
+1996,Good,35.78269963,Medium,5 or more,College,More than 2
+1997,Good,32.51582194,High,Less than 5,College,None or 1
+1998,Good,42.49494252,Medium,5 or more,High school,More than 2
+1999,Good,49.48062715,Medium,5 or more,College,More than 2
+2000,Good,28.27276306,Low,Less than 5,College,None or 1
+2001,Good,34.69653548,High,5 or more,College,More than 2
+2002,Good,36.7456694,Medium,Less than 5,High school,None or 1
+2003,Good,27.01668304,High,5 or more,High school,More than 2
+2004,Good,37.91000554,Medium,5 or more,High school,None or 1
+2005,Good,22.87762394,Medium,5 or more,College,More than 2
+2006,Good,38.99348137,Medium,Less than 5,High school,None or 1
+2007,Good,26.59770386,High,5 or more,High school,More than 2
+2008,Good,29.88328315,High,5 or more,College,More than 2
+2009,Good,38.62398267,Medium,5 or more,High school,More than 2
+2010,Good,29.91451521,High,5 or more,College,More than 2
+2011,Good,40.68851442,Medium,Less than 5,High school,None or 1
+2012,Good,38.42834579,Medium,5 or more,College,None or 1
+2013,Good,30.54093214,Low,Less than 5,College,None or 1
+2014,Good,22.36326681,High,Less than 5,College,None or 1
+2015,Good,47.70739226,High,5 or more,High school,More than 2
+2016,Good,40.29680442,Medium,5 or more,College,More than 2
+2017,Good,42.99846314,High,Less than 5,College,None or 1
+2018,Good,43.77618806,High,5 or more,High school,More than 2
+2019,Good,32.23554536,Medium,5 or more,College,None or 1
+2020,Good,34.80388186,Medium,5 or more,College,More than 2
+2021,Good,48.15466579,High,5 or more,College,More than 2
+2022,Good,33.27146528,Low,5 or more,High school,More than 2
+2023,Good,36.58713497,High,5 or more,High school,More than 2
+2024,Good,25.51304633,Medium,5 or more,High school,More than 2
+2025,Good,38.70163185,High,5 or more,High school,More than 2
+2026,Good,24.55331823,Medium,5 or more,College,More than 2
+2027,Good,23.77302496,High,Less than 5,High school,None or 1
+2028,Good,35.72647908,Medium,5 or more,College,More than 2
+2029,Good,31.7630755,Medium,Less than 5,High school,None or 1
+2030,Good,41.08498076,Medium,Less than 5,College,None or 1
+2031,Good,34.29818794,Medium,Less than 5,College,None or 1
+2032,Good,31.50442666,Medium,5 or more,High school,More than 2
+2033,Good,44.51374869,Medium,5 or more,College,More than 2
+2034,Good,25.36280466,High,Less than 5,High school,None or 1
+2035,Good,31.5944288,High,5 or more,College,More than 2
+2036,Good,42.06146139,Medium,Less than 5,High school,None or 1
+2037,Good,25.37510107,High,Less than 5,College,More than 2
+2038,Good,32.12647272,Medium,5 or more,College,More than 2
+2039,Good,42.95693036,High,Less than 5,High school,None or 1
+2040,Good,27.33381965,High,5 or more,College,More than 2
+2041,Good,26.14167407,High,Less than 5,College,None or 1
+2042,Good,38.94882493,Medium,5 or more,College,More than 2
+2043,Good,59.74281711,High,Less than 5,High school,None or 1
+2044,Good,37.13482628,High,5 or more,High school,More than 2
+2045,Good,51.71318942,High,Less than 5,High school,None or 1
+2046,Good,48.21437384,High,5 or more,College,More than 2
+2047,Good,32.88121529,High,5 or more,College,More than 2
+2048,Good,41.42672976,Medium,Less than 5,College,None or 1
+2049,Good,29.82780657,High,Less than 5,High school,None or 1
+2050,Good,41.42066166,Low,Less than 5,College,None or 1
+2051,Good,46.41474685,Medium,Less than 5,College,None or 1
+2052,Good,33.22797908,Medium,5 or more,College,More than 2
+2053,Good,24.942523,Medium,5 or more,College,More than 2
+2054,Good,42.36894846,Medium,5 or more,College,More than 2
+2055,Good,24.78378516,Medium,Less than 5,High school,None or 1
+2056,Good,44.67780336,High,Less than 5,College,None or 1
+2057,Good,24.37130885,High,5 or more,College,More than 2
+2058,Good,30.64552602,High,5 or more,College,More than 2
+2059,Good,52.30819485,Medium,Less than 5,College,None or 1
+2060,Good,28.91212405,Medium,5 or more,College,More than 2
+2061,Good,24.6940938,High,5 or more,College,More than 2
+2062,Good,54.46231033,High,5 or more,College,None or 1
+2063,Good,44.54246672,Medium,Less than 5,College,None or 1
+2064,Good,39.0713814,Medium,5 or more,College,More than 2
+2065,Good,29.39699499,High,Less than 5,College,None or 1
+2066,Good,33.54728023,Medium,5 or more,High school,More than 2
+2067,Good,41.03286609,High,Less than 5,College,None or 1
+2068,Good,33.06381575,Medium,5 or more,College,More than 2
+2069,Good,40.64973438,Low,5 or more,College,More than 2
+2070,Good,34.19240949,Medium,Less than 5,High school,None or 1
+2071,Good,26.05148436,Medium,Less than 5,College,None or 1
+2072,Good,31.1052694,High,Less than 5,High school,None or 1
+2073,Good,39.02883085,High,5 or more,High school,More than 2
+2074,Good,33.49462264,Medium,5 or more,College,More than 2
+2075,Good,25.2112137,Low,5 or more,College,More than 2
+2076,Good,45.7243357,Medium,5 or more,High school,None or 1
+2077,Good,42.65159248,High,5 or more,College,More than 2
+2078,Good,35.71022309,Medium,Less than 5,High school,None or 1
+2079,Good,46.54293729,High,5 or more,High school,More than 2
+2080,Good,26.91406585,Medium,5 or more,College,More than 2
+2081,Good,36.25653571,High,Less than 5,College,None or 1
+2082,Good,57.16566371,Medium,5 or more,High school,More than 2
+2083,Good,36.20036471,Medium,Less than 5,High school,None or 1
+2084,Good,34.04055245,Medium,Less than 5,College,None or 1
+2085,Good,31.40092531,Medium,5 or more,High school,More than 2
+2086,Good,39.72375931,Medium,5 or more,College,More than 2
+2087,Good,32.03587761,Low,Less than 5,College,None or 1
+2088,Good,45.16762911,Medium,5 or more,College,More than 2
+2089,Good,29.78828259,Medium,5 or more,High school,More than 2
+2090,Good,42.14010739,High,Less than 5,High school,None or 1
+2091,Good,38.16572923,Medium,5 or more,High school,More than 2
+2092,Good,21.614375,Medium,Less than 5,High school,None or 1
+2093,Good,33.48402302,High,Less than 5,High school,None or 1
+2094,Good,41.09778034,High,Less than 5,College,More than 2
+2095,Good,23.49781605,Medium,Less than 5,College,None or 1
+2096,Good,29.53131684,Medium,Less than 5,College,None or 1
+2097,Good,21.62602019,High,Less than 5,College,None or 1
+2098,Good,30.29561819,High,5 or more,High school,More than 2
+2099,Good,34.84581073,High,5 or more,College,More than 2
+2100,Good,44.77385194,High,5 or more,High school,More than 2
+2101,Good,30.93268045,Medium,Less than 5,High school,None or 1
+2102,Good,38.60478733,High,5 or more,College,More than 2
+2103,Good,35.05531446,High,Less than 5,College,None or 1
+2104,Good,36.69011554,Medium,5 or more,College,None or 1
+2105,Good,27.96379511,Medium,5 or more,High school,More than 2
+2106,Good,43.41622884,High,Less than 5,College,More than 2
+2107,Good,44.26457764,High,5 or more,College,More than 2
+2108,Good,26.36425069,High,5 or more,High school,More than 2
+2109,Good,36.69182437,High,Less than 5,High school,None or 1
+2110,Good,39.43427166,High,5 or more,College,More than 2
+2111,Good,21.20092706,High,5 or more,High school,None or 1
+2112,Good,52.12081111,Medium,Less than 5,College,None or 1
+2113,Good,30.5567267,Medium,5 or more,High school,More than 2
+2114,Good,41.21852387,High,Less than 5,High school,None or 1
+2115,Good,28.10680274,High,Less than 5,High school,None or 1
+2116,Good,44.0336784,Medium,Less than 5,College,None or 1
+2117,Good,40.73218956,High,5 or more,College,More than 2
+2118,Good,39.59399214,High,5 or more,High school,More than 2
+2119,Good,49.41819163,Medium,Less than 5,High school,None or 1
+2120,Good,48.66648206,Medium,Less than 5,High school,None or 1
+2121,Good,38.86726005,Medium,5 or more,College,More than 2
+2122,Good,21.50721163,Medium,5 or more,High school,More than 2
+2123,Good,26.61558437,Low,Less than 5,High school,None or 1
+2124,Good,35.48501282,Medium,5 or more,High school,More than 2
+2125,Good,37.07385706,Low,5 or more,High school,None or 1
+2126,Good,59.15021123,High,5 or more,College,More than 2
+2127,Good,34.82399838,High,5 or more,High school,More than 2
+2128,Good,35.49415597,High,5 or more,High school,More than 2
+2129,Good,43.64401063,Medium,Less than 5,College,None or 1
+2130,Good,23.84759839,Low,5 or more,High school,None or 1
+2131,Good,42.87268149,High,Less than 5,College,None or 1
+2132,Good,34.55666314,Medium,5 or more,College,More than 2
+2133,Good,20.75062343,High,5 or more,High school,None or 1
+2134,Good,36.54237694,Medium,5 or more,College,None or 1
+2135,Good,48.29524013,High,Less than 5,High school,None or 1
+2136,Good,29.26608759,Medium,5 or more,College,None or 1
+2137,Good,34.50567827,High,Less than 5,High school,None or 1
+2138,Good,38.95268369,Medium,Less than 5,College,None or 1
+2139,Good,57.50785606,High,Less than 5,College,More than 2
+2140,Good,30.26256329,Medium,5 or more,College,More than 2
+2141,Good,39.80600144,Medium,5 or more,College,More than 2
+2142,Good,30.24247122,Medium,5 or more,College,More than 2
+2143,Good,43.02484578,High,Less than 5,College,More than 2
+2144,Good,57.85883737,Medium,5 or more,College,More than 2
+2145,Good,27.06712175,High,5 or more,College,More than 2
+2146,Good,25.67148037,High,5 or more,College,More than 2
+2147,Good,34.12948622,Medium,Less than 5,High school,None or 1
+2148,Good,23.87988823,Medium,5 or more,High school,More than 2
+2149,Good,42.20888614,High,Less than 5,High school,None or 1
+2150,Good,30.94284781,High,Less than 5,College,None or 1
+2151,Good,33.40906177,High,5 or more,College,More than 2
+2152,Good,39.216541,Medium,5 or more,High school,More than 2
+2153,Good,35.64605913,Medium,Less than 5,College,More than 2
+2154,Good,29.482718,Medium,5 or more,High school,More than 2
+2155,Good,24.67414665,Medium,5 or more,College,None or 1
+2156,Good,42.13172968,High,Less than 5,High school,None or 1
+2157,Good,44.02076347,High,5 or more,College,More than 2
+2158,Good,39.68366739,Medium,Less than 5,College,None or 1
+2159,Good,38.74757478,Medium,5 or more,High school,More than 2
+2160,Good,40.09319096,High,5 or more,College,More than 2
+2161,Good,25.25669522,Medium,5 or more,High school,More than 2
+2162,Good,28.35903746,Medium,5 or more,College,None or 1
+2163,Good,35.43633649,Medium,Less than 5,College,None or 1
+2164,Good,47.30114182,High,Less than 5,College,None or 1
+2165,Good,23.87771936,High,5 or more,College,None or 1
+2166,Good,23.10340893,High,5 or more,High school,More than 2
+2167,Good,35.34558215,Medium,Less than 5,College,None or 1
+2168,Good,27.55659969,High,Less than 5,High school,None or 1
+2169,Good,23.500562,Medium,5 or more,College,More than 2
+2170,Good,42.50087596,High,Less than 5,High school,None or 1
+2171,Good,21.66406437,High,Less than 5,High school,None or 1
+2172,Good,22.28541766,High,Less than 5,College,None or 1
+2173,Good,30.95728312,Medium,Less than 5,High school,None or 1
+2174,Good,43.9504645,Medium,Less than 5,College,None or 1
+2175,Good,37.32725802,High,5 or more,College,More than 2
+2176,Good,26.87889672,High,5 or more,College,None or 1
+2177,Good,37.52157213,Medium,5 or more,High school,More than 2
+2178,Good,43.26768163,Medium,Less than 5,College,None or 1
+2179,Good,50.65886407,High,Less than 5,High school,None or 1
+2180,Good,33.36730223,Medium,Less than 5,College,None or 1
+2181,Good,43.4013775,Medium,Less than 5,College,None or 1
+2182,Good,28.64407441,Medium,5 or more,College,More than 2
+2183,Good,25.46711883,High,Less than 5,High school,None or 1
+2184,Good,38.68958955,Medium,Less than 5,College,More than 2
+2185,Good,37.96467433,High,5 or more,High school,More than 2
+2186,Good,30.37590568,Medium,Less than 5,College,None or 1
+2187,Good,44.76685544,Medium,Less than 5,High school,None or 1
+2188,Good,32.74719416,High,Less than 5,College,None or 1
+2189,Good,37.087862,Medium,Less than 5,High school,None or 1
+2190,Good,38.23656776,Low,Less than 5,High school,None or 1
+2191,Good,46.37581437,Medium,5 or more,High school,More than 2
+2192,Good,44.14573197,Medium,Less than 5,College,More than 2
+2193,Good,39.10898183,Medium,5 or more,College,More than 2
+2194,Good,31.1254242,Medium,Less than 5,High school,None or 1
+2195,Good,36.2268117,High,5 or more,High school,More than 2
+2196,Good,46.42152885,Medium,Less than 5,College,None or 1
+2197,Good,41.02940173,Low,Less than 5,High school,None or 1
+2198,Good,26.85004894,High,5 or more,High school,More than 2
+2199,Good,34.89405897,Medium,Less than 5,College,None or 1
+2200,Good,39.10260999,Medium,Less than 5,High school,None or 1
+2201,Good,38.53010688,Low,5 or more,College,More than 2
+2202,Good,32.28171738,Medium,Less than 5,High school,None or 1
+2203,Good,33.76295782,High,5 or more,College,More than 2
+2204,Good,33.94243136,High,Less than 5,High school,None or 1
+2205,Good,39.79093189,High,Less than 5,High school,None or 1
+2206,Good,39.3081223,Low,Less than 5,College,None or 1
+2207,Good,26.06654802,Medium,5 or more,High school,More than 2
+2208,Good,38.84284677,Medium,Less than 5,High school,None or 1
+2209,Good,46.51209288,Medium,5 or more,College,More than 2
+2210,Good,35.06875594,Medium,Less than 5,High school,None or 1
+2211,Good,43.35373344,High,Less than 5,College,None or 1
+2212,Good,34.9961646,High,5 or more,High school,More than 2
+2213,Good,42.8335422,High,5 or more,High school,More than 2
+2214,Good,48.05342435,High,Less than 5,High school,More than 2
+2215,Good,26.55802805,Low,Less than 5,College,None or 1
+2216,Good,26.11544727,Medium,Less than 5,High school,None or 1
+2217,Good,39.49468745,Medium,Less than 5,College,None or 1
+2218,Good,32.0158944,Medium,5 or more,High school,More than 2
+2219,Good,41.74240117,Medium,5 or more,College,More than 2
+2220,Good,49.3561656,Low,Less than 5,College,None or 1
+2221,Good,21.69231234,High,5 or more,High school,More than 2
+2222,Good,40.49059464,Medium,5 or more,High school,More than 2
+2223,Good,22.31942093,High,5 or more,College,More than 2
+2224,Good,50.69318395,Medium,5 or more,High school,More than 2
+2225,Good,46.57957483,Medium,Less than 5,High school,None or 1
+2226,Good,42.09606913,Medium,Less than 5,College,More than 2
+2227,Good,32.75200781,Medium,Less than 5,High school,None or 1
+2228,Good,57.36239147,Medium,5 or more,High school,More than 2
+2229,Good,30.33384724,Medium,Less than 5,High school,None or 1
+2230,Good,42.25161647,High,5 or more,High school,More than 2
+2231,Good,31.73631814,Low,5 or more,High school,More than 2
+2232,Good,28.95044545,High,5 or more,High school,More than 2
+2233,Good,39.11368869,Medium,5 or more,High school,More than 2
+2234,Good,44.20287073,Medium,5 or more,High school,More than 2
+2235,Good,27.3671438,Medium,Less than 5,High school,More than 2
+2236,Good,61.66721743,Medium,5 or more,High school,More than 2
+2237,Good,34.1056406,Medium,Less than 5,High school,None or 1
+2238,Good,22.63365583,High,Less than 5,High school,None or 1
+2239,Good,46.89774018,Medium,5 or more,College,More than 2
+2240,Good,41.44272707,High,Less than 5,College,More than 2
+2241,Good,26.55322984,Medium,Less than 5,High school,None or 1
+2242,Good,40.93818885,Medium,Less than 5,High school,More than 2
+2243,Good,26.09117508,High,Less than 5,College,None or 1
+2244,Good,46.42198172,High,5 or more,High school,More than 2
+2245,Good,40.43911219,High,5 or more,High school,More than 2
+2246,Good,44.66973066,Medium,Less than 5,College,None or 1
+2247,Good,47.08418924,Low,Less than 5,College,None or 1
+2248,Good,54.19660249,Medium,5 or more,College,More than 2
+2249,Good,32.59937875,Medium,Less than 5,High school,None or 1
+2250,Good,44.44791738,High,Less than 5,College,None or 1
+2251,Good,32.7470483,High,Less than 5,High school,None or 1
+2252,Good,29.6155273,High,Less than 5,College,None or 1
+2253,Good,46.55236944,High,5 or more,High school,More than 2
+2254,Good,31.84182973,High,Less than 5,High school,None or 1
+2255,Good,32.20466151,Medium,Less than 5,High school,None or 1
+2256,Good,41.44277998,Medium,5 or more,High school,None or 1
+2257,Good,28.88870937,Medium,Less than 5,High school,None or 1
+2258,Good,32.26902041,High,Less than 5,High school,None or 1
+2259,Good,50.90184422,High,5 or more,College,More than 2
+2260,Good,41.65566872,High,Less than 5,High school,More than 2
+2261,Good,21.44878153,Medium,5 or more,College,More than 2
+2262,Good,30.471919,High,5 or more,College,More than 2
+2263,Good,44.84959409,Medium,Less than 5,College,None or 1
+2264,Good,31.3083045,Medium,5 or more,College,More than 2
+2265,Good,45.99659392,High,5 or more,High school,More than 2
+2266,Good,36.007648,Medium,5 or more,High school,More than 2
+2267,Good,38.81135551,Medium,Less than 5,College,None or 1
+2268,Good,38.02358713,High,Less than 5,High school,None or 1
+2269,Good,39.88552892,Medium,Less than 5,High school,None or 1
+2270,Good,32.09961493,Medium,Less than 5,College,None or 1
+2271,Good,36.75340445,High,5 or more,High school,More than 2
+2272,Good,39.48415655,Medium,Less than 5,College,None or 1
+2273,Good,25.77208982,Low,Less than 5,High school,None or 1
+2274,Good,47.82018997,High,Less than 5,College,None or 1
+2275,Good,33.87120121,High,5 or more,High school,More than 2
+2276,Good,25.91517304,Medium,5 or more,High school,More than 2
+2277,Good,29.71899165,High,Less than 5,College,None or 1
+2278,Good,56.2733613,Medium,5 or more,College,More than 2
+2279,Good,49.08362385,High,Less than 5,High school,More than 2
+2280,Good,26.52300727,High,5 or more,High school,More than 2
+2281,Good,24.07751208,High,5 or more,High school,More than 2
+2282,Good,26.98645001,Medium,Less than 5,College,More than 2
+2283,Good,47.13682095,High,5 or more,College,More than 2
+2284,Good,27.59029487,Medium,Less than 5,College,None or 1
+2285,Good,37.89708098,High,5 or more,College,None or 1
+2286,Good,40.77509283,High,Less than 5,College,None or 1
+2287,Good,32.43032936,High,5 or more,College,More than 2
+2288,Good,39.05964948,High,5 or more,High school,More than 2
+2289,Good,35.70520926,Medium,5 or more,College,More than 2
+2290,Good,28.49525623,Medium,Less than 5,College,More than 2
+2291,Good,27.96771225,Medium,5 or more,High school,More than 2
+2292,Good,40.18661244,Medium,5 or more,High school,More than 2
+2293,Good,41.03612778,High,5 or more,College,More than 2
+2294,Good,33.88566992,Medium,5 or more,High school,More than 2
+2295,Good,49.09854687,Medium,Less than 5,High school,More than 2
+2296,Good,46.45920921,High,5 or more,High school,More than 2
+2297,Good,32.81801886,High,Less than 5,College,None or 1
+2298,Good,43.35497445,High,5 or more,College,More than 2
+2299,Good,33.73735072,Medium,5 or more,High school,More than 2
+2300,Good,35.30497842,Medium,Less than 5,High school,None or 1
+2301,Good,25.9645163,High,Less than 5,High school,None or 1
+2302,Good,27.8688462,High,5 or more,College,More than 2
+2303,Good,27.34250893,High,Less than 5,High school,None or 1
+2304,Good,59.08793374,Low,5 or more,High school,More than 2
+2305,Good,31.08171118,High,5 or more,High school,More than 2
+2306,Good,33.46926754,Medium,5 or more,High school,More than 2
+2307,Good,41.51607791,Medium,5 or more,High school,More than 2
+2308,Good,40.86229815,High,5 or more,High school,None or 1
+2309,Good,39.70251436,High,5 or more,High school,More than 2
+2310,Good,23.34985568,High,Less than 5,High school,None or 1
+2311,Good,33.17459476,High,Less than 5,High school,None or 1
+2312,Good,50.61060174,Medium,5 or more,High school,More than 2
+2313,Good,45.57547351,High,Less than 5,High school,None or 1
+2314,Good,37.72597621,High,5 or more,High school,More than 2
+2315,Good,38.58353261,High,Less than 5,High school,None or 1
+2316,Good,44.62299361,Medium,5 or more,High school,More than 2
+2317,Good,40.3693312,High,5 or more,College,More than 2
+2318,Good,41.68770185,High,5 or more,College,More than 2
+2319,Good,50.98229837,Low,Less than 5,High school,More than 2
+2320,Good,35.07710094,Medium,Less than 5,College,More than 2
+2321,Good,45.20987535,Low,Less than 5,High school,None or 1
+2322,Good,36.10750765,Low,Less than 5,College,None or 1
+2323,Good,46.04526119,Medium,5 or more,High school,More than 2
+2324,Good,25.13671482,Medium,5 or more,College,More than 2
+2325,Good,35.32754077,Medium,Less than 5,College,None or 1
+2326,Good,31.75469473,Medium,5 or more,High school,More than 2
+2327,Good,21.33800139,Medium,5 or more,High school,None or 1
+2328,Good,41.31827282,High,Less than 5,High school,None or 1
+2329,Good,44.73813523,High,Less than 5,College,None or 1
+2330,Good,25.0503707,High,5 or more,High school,More than 2
+2331,Good,43.2733453,High,Less than 5,High school,None or 1
+2332,Good,35.69072737,High,Less than 5,High school,None or 1
+2333,Good,42.59774055,Medium,Less than 5,College,None or 1
+2334,Good,30.41849767,High,5 or more,High school,None or 1
+2335,Good,57.91889952,High,5 or more,High school,More than 2
+2336,Good,40.70665419,Medium,5 or more,High school,More than 2
+2337,Good,28.50453081,High,5 or more,College,More than 2
+2338,Good,43.1169477,High,5 or more,College,More than 2
+2339,Good,42.7310115,Medium,Less than 5,High school,More than 2
+2340,Good,45.50546821,Medium,5 or more,College,More than 2
+2341,Good,52.96895849,Medium,Less than 5,High school,None or 1
+2342,Good,29.36363587,Low,Less than 5,College,More than 2
+2343,Good,53.34624543,High,5 or more,College,More than 2
+2344,Good,47.56296119,Medium,Less than 5,High school,None or 1
+2345,Good,33.62036594,High,5 or more,High school,More than 2
+2346,Good,26.49432677,Medium,Less than 5,College,None or 1
+2347,Good,47.0958496,Medium,5 or more,High school,More than 2
+2348,Good,35.06668542,Medium,5 or more,High school,None or 1
+2349,Good,40.26437988,Low,5 or more,High school,More than 2
+2350,Good,41.22494242,High,5 or more,High school,More than 2
+2351,Good,35.40331555,Medium,5 or more,College,More than 2
+2352,Good,34.36464939,High,5 or more,High school,More than 2
+2353,Good,36.03890577,Medium,Less than 5,College,None or 1
+2354,Good,28.02510027,High,5 or more,High school,More than 2
+2355,Good,36.21350288,High,5 or more,High school,More than 2
+2356,Good,38.4711586,High,5 or more,College,More than 2
+2357,Good,24.02301216,High,Less than 5,High school,More than 2
+2358,Good,43.62588327,Medium,5 or more,High school,More than 2
+2359,Good,29.80622948,Medium,5 or more,High school,More than 2
+2360,Good,38.3520612,Medium,Less than 5,College,More than 2
+2361,Good,39.6889836,Medium,5 or more,College,More than 2
+2362,Good,39.34147969,High,Less than 5,High school,More than 2
+2363,Good,39.17279897,Medium,Less than 5,High school,None or 1
+2364,Good,40.46298478,High,Less than 5,College,None or 1
+2365,Good,32.70912702,High,Less than 5,High school,None or 1
+2366,Good,39.83149925,Low,Less than 5,High school,None or 1
+2367,Good,32.77364842,High,5 or more,College,More than 2
+2368,Good,31.86137419,High,5 or more,High school,More than 2
+2369,Good,33.30045153,High,5 or more,High school,More than 2
+2370,Good,25.62837252,High,Less than 5,High school,More than 2
+2371,Good,34.97679989,High,5 or more,College,More than 2
+2372,Good,29.68093611,High,5 or more,High school,More than 2
+2373,Good,38.97995624,High,Less than 5,College,None or 1
+2374,Good,53.81753628,Medium,5 or more,College,More than 2
+2375,Good,34.3240775,High,Less than 5,College,None or 1
+2376,Good,37.56707763,High,5 or more,College,More than 2
+2377,Good,34.39676432,Medium,5 or more,College,More than 2
+2378,Good,23.86292134,Low,5 or more,College,More than 2
+2379,Good,51.25434031,High,5 or more,College,More than 2
+2380,Good,30.48555416,Medium,Less than 5,High school,None or 1
+2381,Good,43.7750688,High,5 or more,High school,More than 2
+2382,Good,37.98142921,Medium,Less than 5,College,None or 1
+2383,Good,42.0625536,High,5 or more,College,None or 1
+2384,Good,25.43758333,Medium,Less than 5,College,None or 1
+2385,Good,30.40569854,Medium,5 or more,College,More than 2
+2386,Good,39.50078073,High,Less than 5,College,None or 1
+2387,Good,39.3416905,High,Less than 5,High school,None or 1
+2388,Good,43.33403698,High,Less than 5,College,More than 2
+2389,Good,38.15741621,High,Less than 5,College,None or 1
+2390,Good,37.86520567,Medium,5 or more,College,None or 1
+2391,Good,31.18701809,High,Less than 5,College,None or 1
+2392,Good,30.98028647,High,5 or more,College,More than 2
+2393,Good,31.24615375,High,5 or more,College,None or 1
+2394,Good,29.30914742,Medium,Less than 5,College,None or 1
+2395,Good,28.46144614,High,5 or more,High school,More than 2
+2396,Good,27.61257158,High,Less than 5,College,None or 1
+2397,Good,39.45426733,High,Less than 5,High school,None or 1
+2398,Good,32.82711053,Medium,Less than 5,College,None or 1
+2399,Good,41.18276563,Medium,5 or more,High school,More than 2
+2400,Good,20.21144426,Medium,Less than 5,High school,None or 1
+2401,Good,48.63031109,Medium,5 or more,High school,More than 2
+2402,Good,30.01277572,Medium,5 or more,College,More than 2
+2403,Good,46.94747937,High,5 or more,High school,More than 2
+2404,Good,31.21174672,High,5 or more,High school,More than 2
+2405,Good,26.86187865,Medium,Less than 5,High school,None or 1
+2406,Good,33.92533377,Low,Less than 5,College,None or 1
+2407,Good,35.38921402,Medium,Less than 5,High school,None or 1
+2408,Good,41.72364639,High,5 or more,High school,More than 2
+2409,Good,53.86982139,High,Less than 5,College,None or 1
+2410,Good,24.17521279,High,5 or more,High school,More than 2
+2411,Good,43.36384675,High,Less than 5,High school,More than 2
+2412,Good,35.42467546,High,Less than 5,High school,More than 2
+2413,Good,32.52943247,High,5 or more,College,More than 2
+2414,Good,37.79440051,Medium,5 or more,High school,More than 2
+2415,Good,25.81794247,High,Less than 5,High school,None or 1
+2416,Good,37.85758864,Medium,Less than 5,High school,None or 1
+2417,Good,20.54102208,High,5 or more,High school,More than 2
+2418,Good,38.31949316,High,5 or more,College,More than 2
+2419,Good,63.34972447,Medium,Less than 5,College,None or 1
+2420,Good,35.2782786,High,Less than 5,College,None or 1
+2421,Good,46.34058161,High,Less than 5,High school,None or 1
+2422,Good,31.91109006,Medium,5 or more,High school,More than 2
+2423,Good,31.86483536,High,5 or more,High school,More than 2
+2424,Good,47.47709198,High,Less than 5,High school,More than 2
+2425,Good,35.10856075,High,5 or more,College,More than 2
+2426,Good,38.58497401,Medium,Less than 5,College,More than 2
+2427,Good,40.22573503,Low,Less than 5,High school,None or 1
+2428,Good,40.43248496,Low,5 or more,College,More than 2
+2429,Good,38.28840836,Medium,Less than 5,College,More than 2
+2430,Good,35.78176778,Medium,5 or more,College,More than 2
+2431,Good,46.55863242,Medium,Less than 5,High school,None or 1
+2432,Good,34.40619541,Medium,Less than 5,High school,None or 1
+2433,Good,21.00741537,High,5 or more,High school,More than 2
+2434,Good,52.43927689,High,5 or more,College,More than 2
+2435,Good,51.00144824,High,5 or more,College,None or 1
+2436,Good,21.34589235,High,Less than 5,High school,None or 1
+2437,Good,35.9228282,Medium,5 or more,College,None or 1
+2438,Good,29.54341208,Medium,5 or more,College,More than 2
+2439,Good,44.0575874,Low,Less than 5,College,None or 1
+2440,Good,39.32747118,Medium,5 or more,College,More than 2
+2441,Good,22.25623087,Medium,5 or more,College,More than 2
+2442,Good,28.17912885,Medium,5 or more,High school,None or 1
+2443,Good,58.69101868,Low,5 or more,High school,More than 2
+2444,Good,34.17656639,Medium,Less than 5,College,None or 1
+2445,Good,20.89364864,High,5 or more,High school,More than 2
+2446,Good,39.51493114,Medium,Less than 5,College,None or 1
+2447,Good,22.65651536,Medium,Less than 5,College,None or 1
+2448,Good,38.13700188,Medium,Less than 5,College,None or 1
+2449,Good,41.20567646,Medium,5 or more,College,More than 2
+2450,Good,30.63887765,Medium,5 or more,College,More than 2
+2451,Good,33.46499551,Medium,5 or more,High school,More than 2
+2452,Good,58.16926116,Low,5 or more,College,More than 2
+2453,Good,32.06473533,Medium,Less than 5,High school,None or 1
+2454,Good,31.47680034,High,Less than 5,College,None or 1
+2455,Good,38.190079,High,Less than 5,College,None or 1
+2456,Good,37.13244559,High,Less than 5,High school,None or 1
+2457,Good,33.90689603,High,Less than 5,College,More than 2
+2458,Good,39.25429607,High,Less than 5,High school,None or 1
+2459,Good,25.46096197,High,Less than 5,High school,None or 1
+2460,Good,27.84784672,Medium,Less than 5,High school,None or 1
+2461,Good,29.53268565,Medium,Less than 5,College,None or 1
+2462,Good,23.6421213,Medium,Less than 5,High school,None or 1
+2463,Good,45.5235792,Medium,5 or more,College,More than 2
+2464,Good,28.42536785,High,Less than 5,College,More than 2
